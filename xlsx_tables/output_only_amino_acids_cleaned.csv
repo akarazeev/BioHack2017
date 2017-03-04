@@ -1,0 +1,904 @@
+1990;amyloid beta-protein precursor;0.054783
+;;
+1990;choline o-acetyltransferase;0.022609
+1990;acetylcholinesterase;0.016522
+1990;glial fibrillary acidic protein;0.010435
+1990;glutamic acid;0.006957
+1990;mapt protein, human;0.003478
+1990;protein kinase c;0.003478
+1990;superoxide dismutase;0.003478
+1990;aspartic acid;0.003478
+1990;immunoglobulin g;0.003478
+1990;butyrylcholinesterase;0.003478
+1990;synaptophysin;0.003478
+1991;amyloid beta-protein precursor;0.069510
+;;
+;;
+1991;choline o-acetyltransferase;0.015798
+1991;acetylcholinesterase;0.011058
+1991;immunoglobulin g;0.009479
+1991;glial fibrillary acidic protein;0.007109
+1991;protein kinase c;0.005529
+1991;interleukin-6;0.003949
+1991;synaptophysin;0.003160
+1991;mapt protein, human;0.003160
+1991;insulin;0.002370
+1991;glutamic acid;0.002370
+1991;superoxide dismutase;0.002370
+1991;brain-derived neurotrophic factor;0.002370
+1992;amyloid beta-protein precursor;0.098795
+;;
+1992;antibodies, monoclonal;0.025703
+1992;acetylcholinesterase;0.021687
+1992;choline o-acetyltransferase;0.020080
+1992;glial fibrillary acidic protein;0.007229
+1992;glutamic acid;0.006426
+1992;immunoglobulin g;0.005622
+1992;butyrylcholinesterase;0.005622
+1992;aspartic acid;0.003213
+1992;superoxide dismutase;0.003213
+1992;electron transport complex iv;0.002410
+1992;synaptophysin;0.002410
+1993;amyloid beta-protein precursor;0.102862
+;;
+1993;antibodies, monoclonal;0.025522
+1993;choline o-acetyltransferase;0.013921
+1993;apolipoprotein e4;0.012374
+1993;glial fibrillary acidic protein;0.007734
+1993;acetylcholinesterase;0.005414
+1993;aspartic acid;0.005414
+1993;protein kinase c;0.005414
+1993;superoxide dismutase;0.005414
+1993;tyrosine;0.003867
+1993;immunoglobulin g;0.003867
+1993;butyrylcholinesterase;0.003094
+1993;electron transport complex iv;0.002320
+1993;insulin;0.002320
+1993;glutamic acid;0.002320
+1993;synaptophysin;0.002320
+1993;interleukin-6;0.002320
+1994;amyloid beta-protein precursor;0.089426
+;;
+1994;antibodies, monoclonal;0.027795
+1994;apolipoprotein e4;0.021148
+1994;choline o-acetyltransferase;0.011480
+1994;glial fibrillary acidic protein;0.008459
+1994;acetylcholinesterase;0.007855
+1994;amyloid beta-protein (1-40);0.004834
+1994;protein kinase c;0.004834
+1994;immunoglobulin g;0.004834
+1994;synaptophysin;0.004230
+1994;superoxide dismutase;0.004230
+1994;bace1 protein, human;0.003625
+1994;glutamic acid;0.003625
+1994;electron transport complex iv;0.003021
+1994;aspartic acid;0.003021
+1994;butyrylcholinesterase;0.003021
+1994;interleukin-6;0.003021
+1994;amyloid beta-protein (25-35);0.002417
+1995;amyloid beta-protein precursor;0.070995
+;;
+1995;apolipoprotein e4;0.026699
+1995;antibodies, monoclonal;0.023058
+1995;psen1 protein, human;0.010922
+1995;presenilin-1;0.010922
+1995;glutamic acid;0.008495
+1995;aspartic acid;0.007888
+1995;bace1 protein, human;0.007282
+1995;glial fibrillary acidic protein;0.007282
+1995;choline o-acetyltransferase;0.006675
+1995;protein kinase c;0.006675
+1995;acetylcholinesterase;0.005461
+1995;interleukin-6;0.005461
+1995;synaptophysin;0.004854
+1995;superoxide dismutase;0.004248
+1995;amyloid beta-protein (1-40);0.003641
+1995;amyloid beta-protein (1-42);0.003034
+1995;electron transport complex iv;0.002427
+1995;immunoglobulin g;0.002427
+1995;psen2 protein, human;0.001820
+1995;insulin;0.001820
+1996;amyloid beta-protein precursor;0.083290
+1996;apolipoprotein e4;0.038522
+1996;presenilin-1;0.036960
+1996;psen1 protein, human;0.034878
+;;
+1996;presenilin-2;0.017179
+1996;psen2 protein, human;0.015617
+1996;antibodies, monoclonal;0.013535
+1996;amyloid beta-protein (1-40);0.009370
+1996;amyloid beta-protein (1-42);0.008850
+1996;acetylcholinesterase;0.007808
+1996;choline o-acetyltransferase;0.005726
+1996;amyloid beta-protein (25-35);0.005206
+1996;prealbumin;0.004685
+1996;protein kinase c;0.004685
+1996;glial fibrillary acidic protein;0.003644
+1996;synaptophysin;0.003644
+1996;superoxide dismutase;0.003644
+1996;bace1 protein, human;0.003123
+1996;glutamic acid;0.002603
+1996;aspartic acid;0.002603
+1996;interleukin-6;0.002603
+1996;electron transport complex iv;0.002082
+1996;tumor necrosis factor-alpha;0.002082
+1996;butyrylcholinesterase;0.002082
+1997;amyloid beta-protein precursor;0.063484
+1997;presenilin-1;0.048720
+1997;psen1 protein, human;0.046260
+1997;apolipoprotein e4;0.032480
+1997;presenilin-2;0.019193
+;;
+1997;psen2 protein, human;0.017717
+1997;antibodies, monoclonal;0.013287
+1997;amyloid beta-protein (1-40);0.012303
+1997;amyloid beta-protein (1-42);0.010335
+1997;choline o-acetyltransferase;0.009843
+1997;acetylcholinesterase;0.007382
+1997;glial fibrillary acidic protein;0.005906
+1997;electron transport complex iv;0.004921
+1997;protein kinase c;0.004429
+;;
+1997;superoxide dismutase;0.004429
+1997;glycogen synthase kinase 3;0.003937
+1997;bace1 protein, human;0.003937
+1997;aspartic acid;0.003937
+1997;butyrylcholinesterase;0.003445
+1997;interleukin-6;0.003445
+1997;glutamic acid;0.002953
+1997;immunoglobulin g;0.002461
+1997;proteasome endopeptidase complex;0.001969
+1997;cyclin-dependent kinase 5;0.001969
+1997;tumor necrosis factor-alpha;0.001969
+1998;amyloid beta-protein precursor;0.072120
+1998;presenilin-1;0.058567
+1998;psen1 protein, human;0.055663
+1998;apolipoprotein e4;0.045499
+1998;presenilin-2;0.023717
+1998;psen2 protein, human;0.022265
+1998;amyloid beta-protein (1-42);0.020813
+1998;antibodies, monoclonal;0.016941
+1998;amyloid beta-protein (1-40);0.014521
+;;
+1998;acetylcholinesterase;0.009681
+1998;bace1 protein, human;0.009681
+1998;glial fibrillary acidic protein;0.008228
+1998;protein kinase c;0.007260
+1998;choline o-acetyltransferase;0.006776
+1998;interleukin-6;0.005808
+1998;glutamic acid;0.004840
+1998;amyloid beta-protein (25-35);0.004840
+1998;butyrylcholinesterase;0.004840
+1998;insulin;0.003872
+1998;synaptophysin;0.003872
+1998;glycogen synthase kinase 3;0.003388
+1998;tumor necrosis factor-alpha;0.003388
+1998;superoxide dismutase;0.003388
+1998;alpha-synuclein;0.003388
+1998;proteasome endopeptidase complex;0.002904
+1998;electron transport complex iv;0.002420
+1998;aspartic acid;0.002420
+1999;amyloid beta-protein precursor;0.071359
+1999;presenilin-1;0.067961
+1999;psen1 protein, human;0.061165
+1999;apolipoprotein e4;0.033010
+1999;presenilin-2;0.023786
+1999;psen2 protein, human;0.022816
+1999;amyloid beta-protein (1-42);0.017961
+1999;bace1 protein, human;0.016019
+1999;amyloid beta-protein (1-40);0.013592
+;;
+1999;antibodies, monoclonal;0.010194
+1999;acetylcholinesterase;0.008738
+1999;glutamic acid;0.006311
+1999;interleukin-6;0.006311
+1999;choline o-acetyltransferase;0.006311
+1999;tumor necrosis factor-alpha;0.005340
+1999;butyrylcholinesterase;0.005340
+1999;glial fibrillary acidic protein;0.005340
+1999;alpha-synuclein;0.005340
+1999;caspase 3;0.004854
+1999;protein kinase c;0.004854
+1999;glutathione;0.004369
+1999;bace1 protein, mouse;0.004369
+1999;glycogen synthase kinase 3;0.003883
+1999;aspartic acid;0.003883
+1999;electron transport complex iv;0.003398
+1999;nerve growth factor;0.002913
+1999;synaptophysin;0.002913
+1999;proteasome endopeptidase complex;0.002913
+1999;superoxide dismutase;0.002913
+1999;amyloid beta-protein (25-35);0.002913
+1999;insulin;0.002427
+2000;amyloid beta-protein precursor;0.080611
+2000;presenilin-1;0.054306
+2000;psen1 protein, human;0.048791
+2000;apolipoprotein e4;0.035214
+2000;amyloid beta-protein (1-42);0.027577
+2000;presenilin-2;0.026305
+2000;psen2 protein, human;0.024608
+2000;bace1 protein, human;0.022486
+2000;amyloid beta-protein (1-40);0.020789
+;;
+2000;acetylcholinesterase;0.012304
+2000;antibodies, monoclonal;0.010182
+2000;choline o-acetyltransferase;0.008910
+2000;alpha-synuclein;0.007213
+2000;bace1 protein, mouse;0.005940
+2000;tumor necrosis factor-alpha;0.005515
+2000;butyrylcholinesterase;0.005515
+2000;interleukin-6;0.005515
+;;
+2000;glycogen synthase kinase 3;0.005091
+2000;aspartic acid;0.005091
+2000;nerve growth factor;0.004667
+2000;superoxide dismutase;0.004667
+2000;glutamic acid;0.003818
+2000;caspase 3;0.003818
+2000;homocysteine;0.003818
+2000;synaptophysin;0.003394
+2000;protein kinase c;0.003394
+2000;insulin;0.003394
+2000;electron transport complex iv;0.002546
+2000;tyrosine;0.002546
+2001;amyloid beta-protein precursor;0.089105
+2001;presenilin-1;0.044957
+2001;psen1 protein, human;0.037667
+2001;apolipoprotein e4;0.035237
+2001;amyloid beta-protein (1-42);0.032402
+2001;bace1 protein, human;0.027947
+2001;amyloid beta-protein (1-40);0.025111
+2001;presenilin-2;0.013771
+2001;psen2 protein, human;0.013366
+2001;acetylcholinesterase;0.012151
+2001;antibodies, monoclonal;0.009721
+2001;glial fibrillary acidic protein;0.009721
+2001;bace1 protein, mouse;0.009316
+;;
+;;
+2001;glycogen synthase kinase 3;0.007695
+2001;caspase 3;0.007695
+2001;tumor necrosis factor-alpha;0.006885
+2001;nerve growth factor;0.006075
+2001;alpha-synuclein;0.006075
+2001;superoxide dismutase;0.005670
+2001;glutamic acid;0.004860
+2001;cyclin-dependent kinase 5;0.004860
+2001;butyrylcholinesterase;0.004860
+2001;interleukin-6;0.004860
+2001;aspartic acid;0.004860
+2001;choline o-acetyltransferase;0.004455
+2001;protein kinase c;0.004455
+2001;synaptophysin;0.004050
+2001;neprilysin;0.003645
+2001;homocysteine;0.003645
+2001;glutathione;0.002835
+2001;proteasome endopeptidase complex;0.002835
+2002;amyloid beta-protein precursor;0.085832
+2002;presenilin-1;0.040480
+2002;amyloid beta-protein (1-42);0.034858
+2002;psen1 protein, human;0.034483
+2002;apolipoprotein e4;0.032984
+2002;bace1 protein, human;0.022489
+2002;amyloid beta-protein (1-40);0.020240
+;;
+2002;presenilin-2;0.012369
+2002;psen2 protein, human;0.011994
+2002;acetylcholinesterase;0.009745
+2002;choline o-acetyltransferase;0.009745
+2002;homocysteine;0.009370
+2002;glycogen synthase kinase 3;0.008996
+2002;antibodies, monoclonal;0.008246
+2002;tumor necrosis factor-alpha;0.006747
+;;
+2002;glutamic acid;0.005997
+2002;caspase 3;0.005622
+2002;glial fibrillary acidic protein;0.005247
+2002;butyrylcholinesterase;0.004873
+2002;nerve growth factor;0.004873
+2002;alpha-synuclein;0.004873
+2002;insulin;0.004498
+2002;cyclin-dependent kinase 5;0.004123
+2002;bace1 protein, mouse;0.004123
+2002;synaptophysin;0.004123
+2002;superoxide dismutase;0.004123
+2002;interleukin-6;0.003373
+2002;aspartic acid;0.003373
+2002;ubiquitin;0.002999
+2002;immunoglobulin g;0.002999
+2002;glycogen synthase kinase 3 beta;0.002999
+2002;protein kinase c;0.002999
+2003;amyloid beta-protein precursor;0.079736
+2003;amyloid beta-protein (1-42);0.035395
+2003;presenilin-1;0.035395
+2003;psen1 protein, human;0.029560
+2003;bace1 protein, human;0.027227
+2003;apolipoprotein e4;0.024893
+2003;amyloid beta-protein (1-40);0.023337
+2003;presenilin-2;0.012058
+2003;antibodies, monoclonal;0.010502
+2003;psen2 protein, human;0.010502
+2003;acetylcholinesterase;0.010113
+;;
+2003;homocysteine;0.008946
+2003;glutamic acid;0.007390
+2003;bace1 protein, mouse;0.007390
+2003;alpha-synuclein;0.007001
+2003;glycogen synthase kinase 3;0.006612
+2003;tumor necrosis factor-alpha;0.006223
+2003;choline o-acetyltransferase;0.006223
+2003;insulin;0.004667
+2003;glial fibrillary acidic protein;0.004278
+2003;aspartic acid;0.004278
+2003;ubiquitin;0.003890
+2003;neprilysin;0.003890
+2003;proteasome endopeptidase complex;0.003890
+;;
+2003;cyclin-dependent kinase 5;0.003112
+2003;interleukin-6;0.003112
+2003;glutathione;0.003112
+2003;butyrylcholinesterase;0.002723
+2003;immunoglobulin g;0.002723
+2003;insulysin;0.002723
+2004;amyloid beta-protein precursor;0.078087
+2004;amyloid beta-protein (1-42);0.040248
+2004;apolipoprotein e4;0.036808
+2004;presenilin-1;0.036808
+2004;psen1 protein, human;0.032336
+2004;bace1 protein, human;0.028896
+2004;amyloid beta-protein (1-40);0.019264
+;;
+2004;presenilin-2;0.011352
+2004;psen2 protein, human;0.010664
+2004;acetylcholinesterase;0.009632
+2004;antibodies, monoclonal;0.009288
+2004;bace1 protein, mouse;0.008600
+2004;homocysteine;0.008600
+2004;glial fibrillary acidic protein;0.008256
+2004;glycogen synthase kinase 3;0.007224
+2004;glutamic acid;0.005848
+2004;tumor necrosis factor-alpha;0.005848
+2004;ubiquitin;0.005160
+2004;insulin;0.005160
+2004;brain-derived neurotrophic factor;0.005160
+2004;choline o-acetyltransferase;0.004816
+2004;tyrosine;0.004472
+2004;interleukin-6;0.004128
+2004;glycogen synthase kinase 3 beta;0.003784
+2004;electron transport complex iv;0.003440
+2004;butyrylcholinesterase;0.003440
+2004;cyclin-dependent kinase 5;0.003440
+2004;proteasome endopeptidase complex;0.003440
+2004;synaptophysin;0.003440
+;;
+2004;insulysin;0.003096
+2004;superoxide dismutase;0.003096
+2004;mapt protein, human;0.002752
+2004;nerve growth factor;0.002752
+2004;alpha-synuclein;0.002752
+2004;advanced glycosylation end product-specific receptor;0.002408
+2005;amyloid beta-protein precursor;0.074815
+2005;amyloid beta-protein (1-42);0.034827
+2005;apolipoprotein e4;0.034505
+2005;presenilin-1;0.028378
+2005;bace1 protein, human;0.026443
+2005;psen1 protein, human;0.023218
+;;
+2005;amyloid beta-protein (1-40);0.014189
+2005;bace1 protein, mouse;0.011287
+2005;acetylcholinesterase;0.010964
+2005;presenilin-2;0.009997
+2005;antibodies, monoclonal;0.008707
+2005;homocysteine;0.008707
+2005;glutamic acid;0.008062
+2005;psen2 protein, human;0.008062
+2005;glycogen synthase kinase 3;0.007417
+2005;neprilysin;0.007094
+2005;mapt protein, human;0.006772
+2005;alpha-synuclein;0.006772
+2005;choline o-acetyltransferase;0.006450
+2005;insulin;0.006127
+2005;butyrylcholinesterase;0.005805
+2005;glial fibrillary acidic protein;0.005805
+2005;superoxide dismutase;0.005805
+2005;proteasome endopeptidase complex;0.005482
+2005;tyrosine;0.005482
+2005;ubiquitin;0.004837
+2005;nerve growth factor;0.004837
+2005;insulysin;0.004837
+2005;brain-derived neurotrophic factor;0.004837
+2005;caspase 3;0.004515
+2005;aspartic acid;0.004515
+2005;glycogen synthase kinase 3 beta;0.004192
+;;
+2005;immunoglobulin g;0.003547
+2005;cyclin-dependent kinase 5;0.003225
+2005;glutathione;0.003225
+2005;interleukin-6;0.002902
+2005;alpha7 nicotinic acetylcholine receptor;0.002902
+2005;synaptophysin;0.002902
+2005;c-reactive protein;0.002902
+2005;tumor necrosis factor-alpha;0.002580
+2005;ppar gamma;0.002580
+2006;amyloid beta-protein precursor;0.081374
+2006;apolipoprotein e4;0.035564
+2006;amyloid beta-protein (1-42);0.031947
+2006;presenilin-1;0.026522
+;;
+2006;bace1 protein, human;0.018686
+2006;psen1 protein, human;0.014467
+2006;amyloid beta-protein (1-40);0.013562
+2006;glycogen synthase kinase 3;0.009343
+2006;acetylcholinesterase;0.009343
+2006;bace1 protein, mouse;0.008439
+2006;mapt protein, human;0.007836
+2006;presenilin-2;0.007836
+2006;insulin;0.007535
+2006;glutamic acid;0.006329
+2006;proteasome endopeptidase complex;0.006329
+2006;antibodies, monoclonal;0.006329
+2006;alpha-synuclein;0.006329
+2006;glial fibrillary acidic protein;0.006028
+2006;caspase 3;0.006028
+2006;brain-derived neurotrophic factor;0.006028
+2006;homocysteine;0.005425
+2006;psen2 protein, human;0.005124
+2006;tumor necrosis factor-alpha;0.004822
+2006;butyrylcholinesterase;0.004521
+2006;nerve growth factor;0.004521
+2006;insulysin;0.004219
+2006;tyrosine;0.004219
+2006;ubiquitin;0.003918
+2006;choline o-acetyltransferase;0.003918
+2006;glycogen synthase kinase 3 beta;0.003918
+2006;protein kinase c;0.003918
+;;
+2006;interleukin-6;0.003315
+2006;aspartic acid;0.003315
+2006;c-reactive protein;0.003014
+2006;superoxide dismutase;0.003014
+2006;neprilysin;0.003014
+2006;glutathione;0.003014
+2006;cyclin-dependent kinase 5;0.002411
+2007;amyloid beta-protein precursor;0.074718
+2007;amyloid beta-protein (1-42);0.037816
+2007;apolipoprotein e4;0.035682
+2007;presenilin-1;0.027752
+;;
+2007;amyloid beta-protein (1-40);0.016773
+2007;acetylcholinesterase;0.009759
+2007;bace1 protein, human;0.009149
+2007;antibodies, monoclonal;0.007929
+2007;insulin;0.007319
+2007;glycogen synthase kinase 3;0.006709
+2007;mapt protein, human;0.006099
+2007;butyrylcholinesterase;0.006099
+2007;glutamic acid;0.005794
+2007;tumor necrosis factor-alpha;0.005489
+2007;presenilin-2;0.005489
+2007;psen1 protein, human;0.005489
+2007;alpha-synuclein;0.005489
+2007;homocysteine;0.005185
+2007;superoxide dismutase;0.004270
+2007;interleukin-6;0.003965
+2007;immunoglobulin g;0.003965
+2007;nerve growth factor;0.003660
+2007;proteasome endopeptidase complex;0.003660
+2007;bace1 protein, mouse;0.003660
+;;
+2007;glycogen synthase kinase 3 beta;0.003660
+2007;neprilysin;0.003355
+2007;glial fibrillary acidic protein;0.003355
+2007;sorl1 protein, human;0.003355
+2007;insulysin;0.003050
+2007;choline o-acetyltransferase;0.003050
+2007;ubiquitin;0.002745
+2007;cyclin-dependent kinase 5;0.002745
+2007;caspase 3;0.002745
+2007;alpha7 nicotinic acetylcholine receptor;0.002745
+2007;aspartic acid;0.002745
+2007;app protein, human;0.002440
+2007;glutathione;0.002440
+2007;c-reactive protein;0.002135
+2008;amyloid beta-protein precursor;0.082772
+2008;amyloid beta-protein (1-42);0.049663
+2008;apolipoprotein e4;0.038440
+2008;presenilin-1;0.031706
+;;
+2008;amyloid beta-protein (1-40);0.019641
+2008;acetylcholinesterase;0.011223
+2008;glycogen synthase kinase 3;0.010943
+2008;bace1 protein, human;0.010101
+2008;alpha-synuclein;0.009259
+2008;mapt protein, human;0.008979
+2008;glutamic acid;0.007295
+2008;tumor necrosis factor-alpha;0.007295
+2008;presenilin-2;0.007295
+2008;glycogen synthase kinase 3 beta;0.007015
+2008;homocysteine;0.006734
+2008;antibodies, monoclonal;0.006453
+2008;psen1 protein, human;0.006453
+;;
+2008;glial fibrillary acidic protein;0.005892
+2008;brain-derived neurotrophic factor;0.005331
+2008;insulin;0.004489
+2008;immunoglobulin g;0.004489
+2008;bace1 protein, mouse;0.004489
+2008;superoxide dismutase;0.004489
+2008;butyrylcholinesterase;0.004209
+2008;ubiquitin;0.004209
+2008;caspase 3;0.004209
+2008;neprilysin;0.003928
+2008;interleukin-6;0.003648
+2008;choline o-acetyltransferase;0.003648
+2008;aspartic acid;0.003648
+2008;sorl1 protein, human;0.003367
+2008;insulysin;0.003367
+2008;proteasome endopeptidase complex;0.003367
+2008;cyclin-dependent kinase 5;0.003086
+2008;tyrosine;0.003086
+2008;psen2 protein, human;0.003086
+2008;app protein, human;0.003086
+2008;glutathione;0.002806
+2008;advanced glycosylation end product-specific receptor;0.002525
+2008;prealbumin;0.002525
+2008;alpha7 nicotinic acetylcholine receptor;0.002525
+2008;chrna7 protein, human;0.002245
+2009;amyloid beta-protein precursor;0.088136
+2009;amyloid beta-protein (1-42);0.060739
+2009;apolipoprotein e4;0.039028
+2009;presenilin-1;0.034117
+;;
+2009;amyloid beta-protein (1-40);0.024813
+2009;mapt protein, human;0.014474
+2009;glycogen synthase kinase 3;0.010339
+2009;psen1 protein, human;0.010339
+2009;acetylcholinesterase;0.009822
+2009;bace1 protein, human;0.008271
+2009;app protein, human;0.007237
+2009;tumor necrosis factor-alpha;0.006979
+2009;glial fibrillary acidic protein;0.006720
+2009;insulin;0.006203
+2009;alpha-synuclein;0.006203
+;;
+2009;glutamic acid;0.005686
+2009;antibodies, monoclonal;0.005686
+2009;butyrylcholinesterase;0.005686
+2009;presenilin-2;0.005686
+2009;neprilysin;0.005169
+2009;caspase 3;0.005169
+2009;homocysteine;0.004911
+2009;interleukin-6;0.004652
+2009;advanced glycosylation end product-specific receptor;0.004652
+2009;glycogen synthase kinase 3 beta;0.004652
+2009;superoxide dismutase;0.004652
+2009;brain-derived neurotrophic factor;0.004394
+2009;bace1 protein, mouse;0.004135
+2009;choline o-acetyltransferase;0.004135
+2009;proteasome endopeptidase complex;0.003877
+2009;glutathione;0.003619
+2009;ubiquitin;0.003360
+2009;cyclin-dependent kinase 5;0.003360
+2009;alpha7 nicotinic acetylcholine receptor;0.003360
+2009;immunoglobulin g;0.003360
+2009;c-reactive protein;0.003102
+2009;synaptophysin;0.003102
+2009;psen2 protein, human;0.003102
+2009;adam10 protein;0.002843
+2009;tyrosine;0.002585
+2009;chrna7 protein, human;0.002585
+2009;ppar gamma;0.002585
+2009;sorl1 protein, human;0.002585
+2009;electron transport complex iv;0.002326
+2009;nerve growth factor;0.002326
+2009;prealbumin;0.002326
+2009;vascular endothelial growth factor a;0.002326
+2009;adam10 protein, human;0.002326
+2009;insulysin;0.002326
+2009;aspartic acid;0.002326
+2009;protein kinase c;0.002326
+2010;amyloid beta-protein precursor;0.093904
+2010;amyloid beta-protein (1-42);0.055542
+2010;apolipoprotein e4;0.036244
+2010;presenilin-1;0.035302
+;;
+2010;amyloid beta-protein (1-40);0.022594
+2010;mapt protein, human;0.014121
+2010;psen1 protein, human;0.014121
+2010;bace1 protein, human;0.011532
+2010;glycogen synthase kinase 3;0.008708
+2010;antibodies, monoclonal;0.008237
+2010;acetylcholinesterase;0.008237
+2010;alpha-synuclein;0.008237
+2010;caspase 3;0.007060
+2010;app protein, human;0.006825
+2010;glial fibrillary acidic protein;0.006354
+2010;butyrylcholinesterase;0.006119
+2010;presenilin-2;0.006119
+2010;brain-derived neurotrophic factor;0.006119
+;;
+2010;homocysteine;0.006119
+2010;glutamic acid;0.005884
+2010;tumor necrosis factor-alpha;0.005884
+2010;glycogen synthase kinase 3 beta;0.005178
+2010;neprilysin;0.004472
+2010;insulysin;0.004472
+2010;bace1 protein, mouse;0.004472
+2010;interleukin-6;0.004236
+2010;insulin;0.004001
+2010;proteasome endopeptidase complex;0.003766
+2010;immunoglobulin g;0.003766
+2010;psen2 protein, human;0.003766
+2010;synaptophysin;0.003766
+2010;tyrosine;0.003060
+2010;ubiquitin;0.003060
+2010;advanced glycosylation end product-specific receptor;0.003060
+2010;nerve growth factor;0.003060
+2010;glutathione;0.002589
+2010;alpha7 nicotinic acetylcholine receptor;0.002589
+2010;superoxide dismutase;0.002589
+2010;c-reactive protein;0.002353
+2010;sorl1 protein, human;0.002353
+2010;adam10 protein;0.002353
+2010;electron transport complex iv;0.002118
+2011;amyloid beta-protein precursor;0.086026
+2011;amyloid beta-protein (1-42);0.052151
+2011;presenilin-1;0.030533
+2011;apolipoprotein e4;0.028304
+;;
+2011;amyloid beta-protein (1-40);0.023178
+2011;app protein, human;0.017829
+2011;psen1 protein, human;0.015155
+2011;bace1 protein, human;0.010029
+2011;acetylcholinesterase;0.009360
+2011;glycogen synthase kinase 3;0.008915
+2011;mapt protein, human;0.007577
+2011;antibodies, monoclonal;0.007577
+2011;tumor necrosis factor-alpha;0.006240
+2011;brain-derived neurotrophic factor;0.006240
+2011;glycogen synthase kinase 3 beta;0.006240
+2011;glial fibrillary acidic protein;0.006017
+2011;presenilin-2;0.005572
+2011;alpha-synuclein;0.005572
+2011;insulin;0.004903
+2011;glutamic acid;0.004903
+2011;butyrylcholinesterase;0.004903
+2011;caspase 3;0.004903
+2011;neprilysin;0.004234
+2011;amyloid beta-protein (25-35);0.003789
+2011;glutathione;0.003566
+2011;interleukin-6;0.003566
+2011;insulysin;0.003566
+2011;nerve growth factor;0.003343
+2011;homocysteine;0.003343
+2011;immunoglobulin g;0.003343
+2011;c-reactive protein;0.003343
+2011;superoxide dismutase;0.002897
+2011;synaptophysin;0.002897
+2011;aspartic acid;0.002897
+2011;bace1 protein, mouse;0.002897
+2011;tyrosine;0.002897
+2011;proteasome endopeptidase complex;0.002897
+2011;electron transport complex iv;0.002674
+2011;sorl1 protein, human;0.002674
+2011;cyclin-dependent kinase 5;0.002674
+2011;advanced glycosylation end product-specific receptor;0.002674
+2011;choline o-acetyltransferase;0.002452
+2011;ubiquitin;0.002229
+2012;amyloid beta-protein precursor;0.097469
+2012;amyloid beta-protein (1-42);0.055637
+2012;presenilin-1;0.042669
+2012;apolipoprotein e4;0.029701
+;;
+2012;psen1 protein, human;0.021962
+2012;amyloid beta-protein (1-40);0.020498
+2012;bace1 protein, human;0.014223
+2012;acetylcholinesterase;0.013805
+2012;app protein, human;0.012968
+2012;glycogen synthase kinase 3;0.011086
+2012;mapt protein, human;0.010876
+2012;insulin;0.009831
+2012;glycogen synthase kinase 3 beta;0.008576
+2012;antibodies, monoclonal;0.007111
+2012;bace1 protein, mouse;0.006693
+2012;glutamic acid;0.006484
+2012;presenilin-2;0.006484
+2012;butyrylcholinesterase;0.006275
+2012;glial fibrillary acidic protein;0.006275
+2012;alpha-synuclein;0.005647
+2012;tumor necrosis factor-alpha;0.005438
+2012;superoxide dismutase;0.005229
+2012;glutathione;0.005020
+2012;brain-derived neurotrophic factor;0.004392
+2012;immunoglobulin g;0.004183
+2012;advanced glycosylation end product-specific receptor;0.003974
+2012;caspase 3;0.003974
+;;
+2012;synaptophysin;0.003765
+2012;interleukin-6;0.003765
+2012;neprilysin;0.003556
+2012;adam10 protein;0.003347
+2012;cyclin-dependent kinase 5;0.003137
+2012;insulysin;0.003137
+2012;aspartic acid;0.002928
+2012;psen2 protein, human;0.002928
+2012;sorl1 protein, human;0.002719
+2012;homocysteine;0.002719
+2012;ppar gamma;0.002719
+2012;adam10 protein, human;0.002510
+2012;proteasome endopeptidase complex;0.002510
+2012;ubiquitin;0.002301
+2012;c-reactive protein;0.002301
+2013;amyloid beta-protein precursor;0.087184
+2013;amyloid beta-protein (1-42);0.057654
+2013;presenilin-1;0.041985
+2013;apolipoprotein e4;0.031137
+;;
+2013;psen1 protein, human;0.020892
+2013;amyloid beta-protein (1-40);0.018883
+2013;mapt protein, human;0.015066
+2013;acetylcholinesterase;0.014464
+2013;glycogen synthase kinase 3;0.012053
+2013;app protein, human;0.011852
+2013;bace1 protein, human;0.009442
+2013;glycogen synthase kinase 3 beta;0.008839
+2013;brain-derived neurotrophic factor;0.008437
+2013;tumor necrosis factor-alpha;0.007834
+2013;alpha-synuclein;0.007634
+2013;insulin;0.007031
+2013;glial fibrillary acidic protein;0.006830
+2013;butyrylcholinesterase;0.006428
+;;
+2013;bace1 protein, mouse;0.005625
+2013;antibodies, monoclonal;0.005223
+2013;caspase 3;0.005223
+2013;superoxide dismutase;0.004620
+2013;glutamic acid;0.004219
+2013;interleukin-6;0.004018
+2013;immunoglobulin g;0.004018
+2013;glutathione;0.003817
+2013;homocysteine;0.003616
+2013;presenilin-2;0.003415
+2013;alpha7 nicotinic acetylcholine receptor;0.003415
+2013;aspartic acid;0.003214
+2013;adam10 protein;0.003013
+2013;cyclin-dependent kinase 5;0.002812
+2013;synaptophysin;0.002611
+2013;neprilysin;0.002411
+2013;vascular endothelial growth factor a;0.002411
+2013;insulysin;0.002411
+2013;adam10 protein, human;0.002210
+2013;proteasome endopeptidase complex;0.002210
+2014;amyloid beta-protein precursor;0.078952
+2014;amyloid beta-protein (1-42);0.063932
+2014;presenilin-1;0.038899
+2014;apolipoprotein e4;0.035240
+2014;psen1 protein, human;0.023301
+;;
+2014;amyloid beta-protein (1-40);0.018294
+2014;mapt protein, human;0.017331
+2014;app protein, human;0.015598
+2014;glycogen synthase kinase 3;0.011361
+2014;acetylcholinesterase;0.010976
+2014;brain-derived neurotrophic factor;0.010013
+2014;bace1 protein, human;0.009051
+2014;insulin;0.008280
+2014;glycogen synthase kinase 3 beta;0.007510
+2014;alpha-synuclein;0.006547
+2014;tumor necrosis factor-alpha;0.005392
+2014;antibodies, monoclonal;0.005392
+;;
+2014;glial fibrillary acidic protein;0.005007
+2014;glutamic acid;0.004622
+2014;bace1 protein, mouse;0.004429
+2014;caspase 3;0.004429
+2014;butyrylcholinesterase;0.004236
+2014;presenilin-2;0.003851
+2014;glutathione;0.003851
+2014;nerve growth factor;0.003466
+2014;superoxide dismutase;0.003466
+2014;homocysteine;0.003274
+2014;choline o-acetyltransferase;0.003274
+2014;proteasome endopeptidase complex;0.003081
+2014;psen2 protein, human;0.003081
+2014;aspartic acid;0.002889
+2014;synaptophysin;0.002889
+2014;immunoglobulin g;0.002311
+2014;interleukin-6;0.002311
+2014;ubiquitin;0.002118
+2014;cyclin-dependent kinase 5;0.002118
+2014;neprilysin;0.002118
+2014;advanced glycosylation end product-specific receptor;0.002118
+2015;amyloid beta-protein precursor;0.077505
+2015;amyloid beta-protein (1-42);0.067743
+2015;presenilin-1;0.042040
+2015;apolipoprotein e4;0.028492
+;;
+2015;psen1 protein, human;0.024706
+2015;amyloid beta-protein (1-40);0.022514
+2015;app protein, human;0.022315
+2015;mapt protein, human;0.020323
+2015;acetylcholinesterase;0.014545
+2015;brain-derived neurotrophic factor;0.010560
+2015;bace1 protein, human;0.009364
+2015;glycogen synthase kinase 3;0.009165
+2015;glycogen synthase kinase 3 beta;0.007770
+2015;tumor necrosis factor-alpha;0.007173
+2015;butyrylcholinesterase;0.007173
+2015;glial fibrillary acidic protein;0.006974
+2015;insulin;0.006177
+2015;antibodies, monoclonal;0.006177
+2015;bace1 protein, mouse;0.005380
+2015;superoxide dismutase;0.005180
+;;
+2015;alpha-synuclein;0.004981
+2015;glutathione;0.004583
+2015;caspase 3;0.004383
+2015;presenilin-2;0.003985
+2015;neprilysin;0.003786
+2015;choline o-acetyltransferase;0.003586
+2015;insulysin;0.003387
+2015;immunoglobulin g;0.003188
+2015;proteasome endopeptidase complex;0.003188
+2015;advanced glycosylation end product-specific receptor;0.003188
+2015;nerve growth factor;0.002789
+2015;psen2 protein, human;0.002789
+2015;alpha7 nicotinic acetylcholine receptor;0.002590
+2015;glutamic acid;0.002391
+2015;vascular endothelial growth factor a;0.002391
+2015;homocysteine;0.002391
+2015;interleukin-6;0.002391
+2015;c-reactive protein;0.002192
+2015;ppar gamma;0.002192
+2016;amyloid beta-protein precursor;0.068717
+2016;amyloid beta-protein (1-42);0.053820
+2016;presenilin-1;0.039404
+2016;apolipoprotein e4;0.032196
+2016;amyloid;0.031716
+2016;psen1 protein, human;0.023546
+2016;acetylcholinesterase;0.023066
+2016;mapt protein, human;0.021144
+2016;amyloid beta-protein (1-40);0.016338
+2016;butyrylcholinesterase;0.015858
+2016;app protein, human;0.014897
+2016;bace1 protein, human;0.009130
+2016;alpha-synuclein;0.008650
+2016;insulin;0.008169
+2016;glial fibrillary acidic protein;0.006728
+2016;bace1 protein, mouse;0.005766
+2016;amyloid beta-protein (25-35);0.005766
+2016;brain-derived neurotrophic factor;0.005286
+2016;presenilin-2;0.005286
+2016;antibodies, monoclonal;0.004325
+2016;glycogen synthase kinase 3;0.003844
+2016;glycogen synthase kinase 3 beta;0.003844
+2016;proteasome endopeptidase complex;0.003844
+2016;tumor necrosis factor-alpha;0.003364
+2016;advanced glycosylation end product-specific receptor;0.003364
+2016;synaptophysin;0.003364
+2016;psen2 protein, human;0.003364
+2016;superoxide dismutase;0.002883
+2016;neprilysin;0.002883
+2016;insulysin;0.002883
+2016;choline o-acetyltransferase;0.002883
+2016;homocysteine;0.002883
+2016;glutamic acid;0.002403
+2016;cyclin-dependent kinase 5;0.002403
+2016;interleukin-6;0.002403
+2016;ppar gamma;0.002403
+2017;acetylcholinesterase;0.163636
+2017;amyloid beta-protein (1-40);0.054545
+;;
+2017;amyloid beta-protein precursor;0.036364
+2017;amyloid beta-protein (1-42);0.036364
+2017;butyrylcholinesterase;0.036364
+2017;tumor necrosis factor-alpha;0.036364
+;;
+2017;sorl1 protein, human;0.018182
+2017;psen1 protein, human;0.018182
+2017;insulin;0.018182
+2017;app protein, human;0.018182
+2017;bace1 protein, human;0.018182
+2017;presenilin-1;0.018182
+2017;interleukin-6;0.018182
+2017;ppar gamma;0.018182

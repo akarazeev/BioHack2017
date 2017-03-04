@@ -1,0 +1,33 @@
+
+interleukin-6
+superoxide dismutase
+immunoglobulin g
+bace1 protein, mouse
+bace1 protein, human
+aspartic acid
+alpha-synuclein
+mapt protein, human
+amyloid beta-protein precursor
+app protein, human
+amyloid beta-protein (1-40)
+psen1 protein, human
+amyloid beta-protein (1-42)
+acetylcholinesterase
+tumor necrosis factor-alpha
+protein kinase c
+butyrylcholinesterase
+glutamic acid
+antibodies, monoclonal
+insulin
+choline o-acetyltransferase
+amyloid
+synaptophysin
+presenilin-2
+brain-derived neurotrophic factor
+apolipoprotein e4
+sorl1 protein, human
+glial fibrillary acidic protein
+glycogen synthase kinase 3
+psen2 protein, human
+tyrosine
+presenilin-1
