@@ -1,0 +1,7 @@
+interleukin-6
+superoxide dismutase
+immunoglobulin g
+bace1 protein, mouse
+bace1 protein, human
+aspartic acid
+alpha-synuclein

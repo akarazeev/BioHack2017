@@ -71,4 +71,3 @@ if __name__ == '__main__':
         time.sleep(0.3)
     with open('mesh_candidates.txt', 'w') as output:
         output.write('mesh_candidates='+str(mesh_candidates.__repr__()))
-
