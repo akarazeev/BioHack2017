@@ -1,0 +1,30 @@
+{
+    "mesh_titles": {
+        "skin/metabolism": 1,
+        "neurons/metabolism": 1,
+        "neurons/drug effects": 1,
+        "muscle, smooth, vascular/metabolism": 1,
+        "blood vessels/pathology": 1,
+        "amyloid/pharmacology": 1,
+        "calcium/metabolism": 1,
+        "beta 2-microglobulin/metabolism": 1,
+        "hippocampus/drug effects": 1,
+        "amyloidosis/pathology": 1,
+        "aorta/pathology": 1,
+        "blood vessels/metabolism": 1,
+        "beta 2-microglobulin/pharmacology": 1,
+        "reactive oxygen species/metabolism": 1,
+        "amyloidosis/metabolism": 1,
+        "glutamic acid/pharmacology": 1,
+        "amyloid beta-peptides/immunology": 1,
+        "cell death/drug effects": 1,
+        "skin/pathology": 1,
+        "hippocampus/metabolism": 1,
+        "muscle, smooth, vascular/cytology": 1,
+        "amyloid/metabolism": 1,
+        "vitamin e/pharmacology": 1,
+        "amyloid beta-peptides/metabolism": 2,
+        "aorta/metabolism": 1
+    },
+    "count_articles": 2
+}
