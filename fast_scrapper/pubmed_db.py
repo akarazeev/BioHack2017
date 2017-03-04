@@ -42,13 +42,14 @@ class pubmed(entrez_query):
             access_string = ','.join(self.id_list[start:start+gap])
             time.sleep(0.3)
             
+
             #if start == 0:
              #   print("fetching...")
             #else:
              #   print("fetching next chunk...")
                 
-            #fetch_adress = self.fetch_adress(access_string)
-
+            fetch_adress = self.fetch_adress(access_string)
+            self.download_file(fetch_adress)
             #self.fetch(fetch_adress)
 
             #print("chunk processing finished\n")
@@ -66,7 +67,6 @@ class pubmed(entrez_query):
     def download_file(self, adress):
         #download file
         response = requests.get(adress)
-
         if response.status_code == 200:
           content = response.text 
           name = "file" + str(self.count_files) + ".xml"
