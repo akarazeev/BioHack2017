@@ -20,10 +20,13 @@ def query(filename):
     except:
         print("could not open provided filename")
 
-def operational_sequence(query, email, output):
+def operational_sequence(query, email, output, path_folder):
+    
     req = pubmed(query, email=email)
+    req.set_path(path_folder)
     req.obtain_data()
-    req.dump_to_file(str(output))
+
+   # req.dump_to_file(str(output))
 
 if __name__ == "__main__":
     start_time = time.time()
@@ -48,23 +51,23 @@ if __name__ == "__main__":
 
     command_line.add_argument("--email", help="if server will somehow block your ip at least youll get a notification", default='tierprot@gmail.com', action="store")
     command_line.add_argument("--output", default="dump.json", help = "output filename", action="store")
+    command_line.add_argument("--path_folder", help="decide to which folder to save xml", action="store")
 
     args = command_line.parse_args()
 
     if args.query:
         query = " ".join(args.query)
 #        print("Query received: {0}\n".format(query))
-        operational_sequence(query, args.email, args.output)
+        operational_sequence(query, args.email, args.output, args.path_folder)
 
 
     else:
         try:
             query = query(args.file)
  #           print("Query received: {0}\n".format(query))
-            operational_sequence(query, args.email, args.output)
+            operational_sequence(query, args.email, args.output, args.path_folder)
         except:
             print("program terminated unexpectedly, aborting...")
     print("--- %s seconds ---" % (time.time() - start_time))
-
 
 

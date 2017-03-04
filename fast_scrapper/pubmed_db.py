@@ -15,12 +15,17 @@ class pubmed(entrez_query):
         self.chemicals = {}
         self.mesh_terms = {}
         self.count_files = 0
+        self.path = ""
         super().__init__(query, **kwargs)
 
 
 #==========>Methods <====================
 
-    def obtain_data(self, gap=500):
+    def set_path(self, path):
+        self.path = path
+        print(self.path)
+
+    def obtain_data(self, gap=500):       
         total = self.total_ids()
         print("Total ids in query: {0}".format(total))
         start = 0
@@ -30,24 +35,25 @@ class pubmed(entrez_query):
 
         while condition == True:
 
-            #if start+gap < total:
-             #   print("requesting ids from {0} up to {1}".format(start, start+gap))
-            #else:
-             #   print("requesting ids from {0} up to {1}".format(start, total))
+            
+            if start+gap < total:
+                print("requesting ids from {0} up to {1}".format(start, start+gap))
+            else:
+                print("requesting ids from {0} up to {1}".format(start, total))
+            
 
             chunk = self.request_ids(start = start, gap = gap)
 
-            #print("ids received")
-
+            
             access_string = ','.join(self.id_list[start:start+gap])
             time.sleep(0.3)
             
-
-            #if start == 0:
-             #   print("fetching...")
-            #else:
-             #   print("fetching next chunk...")
-                
+            '''
+            if start == 0:
+                print("fetching...")
+            else:
+                print("fetching next chunk...")
+            ''' 
             fetch_adress = self.fetch_adress(access_string)
             self.download_file(fetch_adress)
             #self.fetch(fetch_adress)
@@ -69,7 +75,7 @@ class pubmed(entrez_query):
         response = requests.get(adress)
         if response.status_code == 200:
           content = response.text 
-          name = "file" + str(self.count_files) + ".xml"
+          name = self.path + "file" + str(self.count_files) + ".xml"
           self.count_files += 1
           with open(name, "w+") as f:
               f.write(content)
@@ -81,7 +87,7 @@ class pubmed(entrez_query):
 
     def dump_to_file(self, filename = "dump.json"):
         
-        with open(filename, "w", encoding='utf-8') as dump:
+#        with open(filename, "w", encoding='utf-8') as dump:
             '''
             year_json = {}
             year_json["count_articles"] = len(self.id_list)
