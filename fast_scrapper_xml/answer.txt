@@ -1,0 +1,2752 @@
+Number:  1
+UID:  27015590
+Founded words:  ['activation', 'associated', 'binding', 'binding']
+
+Number:  2
+UID:  26905811
+Founded words:  ['binding', 'binding', 'function', 'function']
+
+Number:  3
+UID:  26890753
+Founded words:  ['mediates']
+
+Number:  4
+UID:  26840340
+Founded words:  ['associated']
+
+Number:  5
+UID:  26813690
+Founded words:  ['interactions', 'interactions', 'interactions', 'interacting', 'interactions', 'interactions', 'interactions', 'interacting', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'complexes', 'complexes', 'complexes']
+
+Number:  6
+UID:  26696252
+Founded words:  ['complex', 'complex']
+
+Number:  7
+UID:  26694839
+Founded words:  ['interacted', 'association', 'interacted', 'complex', 'complex', 'complexes', 'complexes', 'complex', 'complex', 'regulated']
+
+Number:  8
+UID:  26614409
+Founded words:  ['interactions', 'interactions']
+
+Number:  9
+UID:  26574544
+Founded words:  ['associated', 'regulated', 'regulated']
+
+Number:  10
+UID:  26465092
+Founded words:  ['associated', 'functions', 'functions', 'functions', 'functions']
+
+Number:  11
+UID:  26454161
+Founded words:  ['activation', 'interaction', 'interaction', 'interacting', 'interaction', 'interaction', 'interacting', 'complexes']
+
+Number:  12
+UID:  26427429
+Founded words:  ['function', 'function']
+
+Number:  13
+UID:  26401691
+Founded words:  ['associated', 'associated', 'regulating', 'regulating']
+
+Number:  14
+UID:  26342176
+Founded words:  ['associating']
+
+Number:  15
+UID:  26297990
+Founded words:  ['complexes']
+
+Number:  16
+UID:  26292218
+Founded words:  ['regulated', 'function', 'function']
+
+Number:  17
+UID:  26195137
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  18
+UID:  26186663
+Founded words:  ['binding', 'binding', 'regulatory', 'regulates', 'functions', 'functions']
+
+Number:  19
+UID:  26123100
+Founded words:  ['activation', 'activator', 'activated', 'mediated', 'regulator', 'functions', 'functions']
+
+Number:  20
+UID:  26094578
+Founded words:  ['interactions', 'interactions', 'interaction', 'interaction', 'interactions', 'interactions', 'interaction', 'interaction', 'binding', 'binding', 'complex', 'complex', 'complex', 'complex']
+
+Number:  21
+UID:  26092426
+Founded words:  ['regulate']
+
+Number:  22
+UID:  26062786
+Founded words:  ['interaction', 'association', 'interaction', 'function', 'function', 'function', 'function']
+
+Number:  23
+UID:  26053850
+Founded words:  ['interaction', 'interact', 'interaction', 'interact', 'functions', 'functions']
+
+Number:  24
+UID:  26037803
+Founded words:  ['regulating', 'regulating', 'regulate', 'regulating', 'regulating', 'functions', 'functions']
+
+Number:  25
+UID:  26003344
+Founded words:  ['interaction', 'interaction']
+
+Number:  26
+UID:  25976650
+Founded words:  ['associated']
+
+Number:  27
+UID:  25957769
+Founded words:  ['interacts', 'interacts', 'regulating', 'regulating', 'function', 'function']
+
+Number:  28
+UID:  25926467
+Founded words:  ['activate', 'associated', 'associated', 'function', 'function', 'function', 'function']
+
+Number:  29
+UID:  25906170
+Founded words:  ['interact', 'interact', 'binding', 'binding', 'bind', 'bind', 'binding', 'binding', 'bind', 'bind']
+
+Number:  30
+UID:  25863345
+Founded words:  ['interactions', 'interactions', 'binding', 'binding', 'complex', 'complex']
+
+Number:  31
+UID:  25855499
+Founded words:  ['binding', 'binders', 'binding']
+
+Number:  32
+UID:  25824396
+Founded words:  ['function', 'function', 'function', 'function']
+
+Number:  33
+UID:  25808939
+Founded words:  ['association', 'regulatory']
+
+Number:  34
+UID:  25808939
+Founded words:  ['associated']
+
+Number:  35
+UID:  25781223
+Founded words:  ['interactions', 'interactions', 'binding', 'binding', 'complexes', 'complexes']
+
+Number:  36
+UID:  25773675
+Founded words:  ['activation', 'interacts', 'interacts', 'binding', 'binding', 'regulate', 'regulates']
+
+Number:  37
+UID:  25716831
+Founded words:  ['activation', 'interaction', 'associates', 'associates', 'interaction', 'regulates', 'function', 'function']
+
+Number:  38
+UID:  25712587
+Founded words:  ['regulating', 'regulating']
+
+Number:  39
+UID:  25707809
+Founded words:  ['interacting', 'interacted', 'interacting', 'interacted', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  40
+UID:  25706765
+Founded words:  ['activate', 'bind', 'bind', 'regulation', 'regulation']
+
+Number:  41
+UID:  25706765
+Founded words:  ['activation', 'activation']
+
+Number:  42
+UID:  25706765
+Founded words:  ['function', 'function']
+
+Number:  43
+UID:  25706765
+Founded words:  ['functions', 'functions']
+
+Number:  44
+UID:  25667085
+Founded words:  ['activated', 'regulating', 'regulating']
+
+Number:  45
+UID:  25625854
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'complexes']
+
+Number:  46
+UID:  25624418
+Founded words:  ['regulation', 'regulation', 'regulation', 'regulation', 'function', 'function']
+
+Number:  47
+UID:  25599931
+Founded words:  ['functions', 'functions']
+
+Number:  48
+UID:  25599931
+Founded words:  ['functions', 'functions']
+
+Number:  49
+UID:  25599931
+Founded words:  ['associated']
+
+Number:  50
+UID:  25599931
+Founded words:  ['functions', 'functions']
+
+Number:  51
+UID:  25596147
+Founded words:  ['mediates', 'regulates']
+
+Number:  52
+UID:  25590804
+Founded words:  ['activated', 'activates', 'associated']
+
+Number:  53
+UID:  25589732
+Founded words:  ['activation', 'activation', 'mediates', 'complex', 'complex', 'regulating', 'regulating']
+
+Number:  54
+UID:  25389560
+Founded words:  ['binding', 'binding']
+
+Number:  55
+UID:  25378646
+Founded words:  ['binding', 'binding']
+
+Number:  56
+UID:  25376768
+Founded words:  ['interactions', 'interactions', 'regulating', 'regulating', 'functions', 'functions', 'function', 'function', 'functions', 'functions']
+
+Number:  57
+UID:  25363711
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  58
+UID:  25359283
+Founded words:  ['activating', 'regulatory', 'regulated', 'regulated']
+
+Number:  59
+UID:  25349163
+Founded words:  ['activator', 'activates', 'interaction', 'interaction', 'binds', 'function', 'function']
+
+Number:  60
+UID:  25254246
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'functions', 'functions']
+
+Number:  61
+UID:  25211541
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  62
+UID:  25204716
+Founded words:  ['activated']
+
+Number:  63
+UID:  25143627
+Founded words:  ['interaction', 'interaction']
+
+Number:  64
+UID:  25136804
+Founded words:  ['activate', 'complex', 'complex', 'complex', 'complex']
+
+Number:  65
+UID:  25058312
+Founded words:  ['associated', 'associated', 'function', 'function']
+
+Number:  66
+UID:  24985735
+Founded words:  ['interactions', 'association', 'interactions']
+
+Number:  67
+UID:  24958907
+Founded words:  ['regulation', 'regulation']
+
+Number:  68
+UID:  24935721
+Founded words:  ['associated', 'mediated', 'functions', 'functions']
+
+Number:  69
+UID:  24907271
+Founded words:  ['functions', 'functions']
+
+Number:  70
+UID:  24874077
+Founded words:  ['activation', 'activates', 'regulator', 'regulate', 'regulated', 'regulates']
+
+Number:  71
+UID:  24866237
+Founded words:  ['regulated']
+
+Number:  72
+UID:  24844149
+Founded words:  ['associated', 'regulator', 'regulate', 'functions', 'function', 'function', 'functions']
+
+Number:  73
+UID:  24720891
+Founded words:  ['interacting', 'associated', 'interacting', 'mediated', 'complex', 'complex', 'regulator', 'functions', 'functions']
+
+Number:  74
+UID:  24612608
+Founded words:  ['interaction', 'interaction', 'binding', 'binding', 'binding', 'binding', 'binding', 'bind', 'bind', 'binds', 'binding', 'binding', 'binding', 'binding', 'binding', 'bind', 'bind', 'mediate', 'mediated', 'mediated', 'mediate', 'functions', 'function', 'function', 'functions']
+
+Number:  75
+UID:  24566006
+Founded words:  ['activation', 'activation']
+
+Number:  76
+UID:  24547943
+Founded words:  ['complexes', 'complexes', 'complexes', 'complexes', 'complexes']
+
+Number:  77
+UID:  24523906
+Founded words:  ['binding', 'binding', 'mediated', 'functions', 'functions']
+
+Number:  78
+UID:  24516878
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  79
+UID:  24432380
+Founded words:  ['associated']
+
+Number:  80
+UID:  24397738
+Founded words:  ['binding', 'binding']
+
+Number:  81
+UID:  24376644
+Founded words:  ['associated', 'functions', 'functions']
+
+Number:  82
+UID:  24361992
+Founded words:  ['functions', 'function', 'function', 'functions']
+
+Number:  83
+UID:  24333289
+Founded words:  ['regulators']
+
+Number:  84
+UID:  24333289
+Founded words:  ['regulatory', 'functions', 'functions']
+
+Number:  85
+UID:  24304299
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  86
+UID:  24295810
+Founded words:  ['activating', 'activating']
+
+Number:  87
+UID:  24125881
+Founded words:  ['bind', 'bind']
+
+Number:  88
+UID:  24121518
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'complexes', 'complexes', 'complexes', 'function', 'function']
+
+Number:  89
+UID:  24113238
+Founded words:  ['interactions', 'association', 'interactions', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  90
+UID:  24081378
+Founded words:  ['associated']
+
+Number:  91
+UID:  24051074
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  92
+UID:  24009667
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'regulation', 'regulation', 'regulated', 'regulated']
+
+Number:  93
+UID:  24005676
+Founded words:  ['regulator', 'regulated', 'functions', 'functions']
+
+Number:  94
+UID:  24004830
+Founded words:  ['interact', 'interact', 'binding', 'binding', 'binding', 'binding']
+
+Number:  95
+UID:  23998983
+Founded words:  ['binding', 'binding', 'complex', 'complex', 'regulation', 'regulation', 'regulate', 'functions', 'functions']
+
+Number:  96
+UID:  23993670
+Founded words:  ['interacted', 'interacted', 'binding', 'binding']
+
+Number:  97
+UID:  23988410
+Founded words:  ['binding', 'binding', 'complex', 'complex']
+
+Number:  98
+UID:  23959870
+Founded words:  ['interaction', 'associated', 'interaction']
+
+Number:  99
+UID:  23947643
+Founded words:  ['function', 'function']
+
+Number:  100
+UID:  23879547
+Founded words:  ['interactions', 'interactions', 'binding', 'binding', 'binders', 'binders', 'binding', 'binding', 'complex', 'complex']
+
+Number:  101
+UID:  23867794
+Founded words:  ['associated', 'function', 'function']
+
+Number:  102
+UID:  23831026
+Founded words:  ['interactions', 'interaction', 'interactions', 'interaction', 'regulates', 'function', 'function']
+
+Number:  103
+UID:  23816176
+Founded words:  ['interactions', 'interaction', 'interactions', 'interaction', 'complex', 'complex', 'complex', 'complex']
+
+Number:  104
+UID:  23791884
+Founded words:  ['regulate', 'functions', 'functions']
+
+Number:  105
+UID:  23773724
+Founded words:  ['associated', 'regulated']
+
+Number:  106
+UID:  23769639
+Founded words:  ['interactions', 'interactions', 'binding', 'binding']
+
+Number:  107
+UID:  23756188
+Founded words:  ['regulate', 'functions', 'function', 'function', 'functions']
+
+Number:  108
+UID:  23754390
+Founded words:  ['associated']
+
+Number:  109
+UID:  23701002
+Founded words:  ['interaction', 'interaction', 'interacts', 'interaction', 'interaction', 'interacts', 'mediate', 'mediate']
+
+Number:  110
+UID:  23695257
+Founded words:  ['binders']
+
+Number:  111
+UID:  23682800
+Founded words:  ['associated']
+
+Number:  112
+UID:  23681056
+Founded words:  ['binding', 'binding']
+
+Number:  113
+UID:  23640428
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  114
+UID:  23637177
+Founded words:  ['activation']
+
+Number:  115
+UID:  23636093
+Founded words:  ['binding', 'binding', 'mediates', 'function', 'function', 'function', 'function']
+
+Number:  116
+UID:  23627297
+Founded words:  ['interactions', 'interactions']
+
+Number:  117
+UID:  23596049
+Founded words:  ['associated']
+
+Number:  118
+UID:  23596049
+Founded words:  ['association']
+
+Number:  119
+UID:  23596049
+Founded words:  ['associated']
+
+Number:  120
+UID:  23596049
+Founded words:  ['binding', 'binding', 'regulation', 'regulation']
+
+Number:  121
+UID:  23564327
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  122
+UID:  23537249
+Founded words:  ['binding', 'binding']
+
+Number:  123
+UID:  23504710
+Founded words:  ['activation', 'mediated', 'complex', 'complex', 'regulating', 'regulating', 'regulate', 'regulated', 'regulating', 'regulating']
+
+Number:  124
+UID:  23457027
+Founded words:  ['function', 'function', 'function', 'function']
+
+Number:  125
+UID:  23452816
+Founded words:  ['regulation', 'regulation', 'functions', 'functions', 'functions', 'functions']
+
+Number:  126
+UID:  23447608
+Founded words:  ['regulating', 'regulating']
+
+Number:  127
+UID:  23443094
+Founded words:  ['interactions', 'associated', 'interactions']
+
+Number:  128
+UID:  23410038
+Founded words:  ['activation', 'activated', 'associated', 'mediated', 'functions', 'functions']
+
+Number:  129
+UID:  23407961
+Founded words:  ['associative', 'associated']
+
+Number:  130
+UID:  23386614
+Founded words:  ['activation', 'binding', 'binding', 'binding', 'binding', 'bind', 'bind', 'binding', 'binding', 'binding', 'binding', 'bind', 'bind']
+
+Number:  131
+UID:  23274884
+Founded words:  ['regulating', 'regulating']
+
+Number:  132
+UID:  23178169
+Founded words:  ['regulation', 'regulation', 'regulation', 'regulatory', 'regulation', 'regulation', 'regulation']
+
+Number:  133
+UID:  23126626
+Founded words:  ['binding', 'binding']
+
+Number:  134
+UID:  23109336
+Founded words:  ['interaction', 'interaction', 'regulated']
+
+Number:  135
+UID:  23030502
+Founded words:  ['interactions', 'interaction', 'interactions', 'interaction', 'binding', 'binding']
+
+Number:  136
+UID:  23024787
+Founded words:  ['associated', 'regulation', 'regulation', 'functions', 'functions']
+
+Number:  137
+UID:  23024787
+Founded words:  ['mediated', 'regulation', 'regulation']
+
+Number:  138
+UID:  23024787
+Founded words:  ['regulation', 'regulation']
+
+Number:  139
+UID:  22998419
+Founded words:  ['interaction', 'interaction', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'complex', 'complex']
+
+Number:  140
+UID:  22989333
+Founded words:  ['binding', 'binding']
+
+Number:  141
+UID:  22954333
+Founded words:  ['interaction', 'interaction', 'binding', 'bind', 'binding', 'bind']
+
+Number:  142
+UID:  22952813
+Founded words:  ['interacts', 'association', 'associated', 'interacts', 'regulating', 'regulating']
+
+Number:  143
+UID:  22940630
+Founded words:  ['activation']
+
+Number:  144
+UID:  22911925
+Founded words:  ['complex', 'complex']
+
+Number:  145
+UID:  22855816
+Founded words:  ['binding', 'bind', 'bind', 'binding', 'bind', 'bind']
+
+Number:  146
+UID:  22846573
+Founded words:  ['activated', 'interaction', 'associated', 'associated', 'interaction', 'regulated']
+
+Number:  147
+UID:  22842730
+Founded words:  ['binding', 'binding']
+
+Number:  148
+UID:  22796214
+Founded words:  ['interaction', 'interaction', 'interact', 'associated', 'associated', 'interaction', 'interaction', 'interact', 'binding', 'binds', 'binding']
+
+Number:  149
+UID:  22708832
+Founded words:  ['activation', 'activation', 'activated']
+
+Number:  150
+UID:  22701601
+Founded words:  ['functions', 'functions']
+
+Number:  151
+UID:  22701601
+Founded words:  ['functions', 'functions', 'functions', 'functions']
+
+Number:  152
+UID:  22664922
+Founded words:  ['interaction', 'interaction', 'binding', 'bind', 'binding', 'bind', 'mediated', 'regulation', 'regulatory', 'regulatory', 'regulation']
+
+Number:  153
+UID:  22654105
+Founded words:  ['activated', 'activates', 'regulated']
+
+Number:  154
+UID:  22627185
+Founded words:  ['activation']
+
+Number:  155
+UID:  22590542
+Founded words:  ['associated', 'associated', 'regulated', 'function', 'function']
+
+Number:  156
+UID:  22590542
+Founded words:  ['associated']
+
+Number:  157
+UID:  22553349
+Founded words:  ['interaction', 'interaction', 'interaction', 'interaction', 'mediates', 'complex', 'complex']
+
+Number:  158
+UID:  22534065
+Founded words:  ['activation', 'activators', 'associated', 'regulator']
+
+Number:  159
+UID:  22490781
+Founded words:  ['regulated', 'regulated', 'function', 'function']
+
+Number:  160
+UID:  22480948
+Founded words:  ['interactions', 'interactions']
+
+Number:  161
+UID:  22468999
+Founded words:  ['binder']
+
+Number:  162
+UID:  22459076
+Founded words:  ['binding', 'bind', 'binding', 'bind']
+
+Number:  163
+UID:  22455478
+Founded words:  ['activation', 'activate', 'bind', 'bind', 'mediated', 'mediated', 'regulates', 'functions', 'function', 'function', 'functions']
+
+Number:  164
+UID:  22449099
+Founded words:  ['functions', 'functions']
+
+Number:  165
+UID:  22449099
+Founded words:  ['mediating']
+
+Number:  166
+UID:  22407769
+Founded words:  ['bind', 'bind', 'regulatory']
+
+Number:  167
+UID:  22393721
+Founded words:  ['interaction', 'interaction', 'interaction', 'interaction', 'interaction', 'interaction', 'complex', 'complex']
+
+Number:  168
+UID:  22380629
+Founded words:  ['binding', 'binding', 'complexes']
+
+Number:  169
+UID:  22351782
+Founded words:  ['interacts', 'interacts', 'mediate', 'mediate', 'mediates', 'function', 'function']
+
+Number:  170
+UID:  22325686
+Founded words:  ['activation', 'interactions', 'interactions', 'binding', 'binding', 'regulation', 'regulation']
+
+Number:  171
+UID:  22303960
+Founded words:  ['binding', 'binding', 'complex', 'complex', 'regulation', 'regulation', 'regulate']
+
+Number:  172
+UID:  22275252
+Founded words:  ['regulates']
+
+Number:  173
+UID:  22275252
+Founded words:  ['activation', 'activation', 'regulates']
+
+Number:  174
+UID:  22249458
+Founded words:  ['activation', 'activation', 'activation']
+
+Number:  175
+UID:  22223749
+Founded words:  ['interact', 'interact', 'complexes', 'complexes']
+
+Number:  176
+UID:  22194329
+Founded words:  ['interaction', 'associated', 'interaction', 'binding', 'binding', 'complexes']
+
+Number:  177
+UID:  22166205
+Founded words:  ['activation', 'regulated', 'regulated', 'function', 'function']
+
+Number:  178
+UID:  22120156
+Founded words:  ['associated', 'regulate', 'regulated', 'functions', 'functions', 'functions', 'function', 'function', 'functions', 'functions', 'functions']
+
+Number:  179
+UID:  22113787
+Founded words:  ['binding', 'binding']
+
+Number:  180
+UID:  22090490
+Founded words:  ['mediate', 'mediate']
+
+Number:  181
+UID:  22076470
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'functions', 'function', 'function', 'function', 'function', 'functions']
+
+Number:  182
+UID:  22052506
+Founded words:  ['activation', 'activates', 'regulator', 'regulate']
+
+Number:  183
+UID:  22045484
+Founded words:  ['complex', 'complex', 'regulatory']
+
+Number:  184
+UID:  22036964
+Founded words:  ['associated', 'mediated', 'mediated']
+
+Number:  185
+UID:  22002568
+Founded words:  ['associated', 'mediated', 'regulation', 'regulation']
+
+Number:  186
+UID:  21965313
+Founded words:  ['association', 'association', 'association']
+
+Number:  187
+UID:  21913112
+Founded words:  ['complex', 'complex', 'regulation', 'regulation', 'regulate', 'regulates', 'function', 'function']
+
+Number:  188
+UID:  21897006
+Founded words:  ['regulated']
+
+Number:  189
+UID:  21835615
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  190
+UID:  21825135
+Founded words:  ['regulatory']
+
+Number:  191
+UID:  21822802
+Founded words:  ['binding', 'binding']
+
+Number:  192
+UID:  21800078
+Founded words:  ['activated', 'binds']
+
+Number:  193
+UID:  21795680
+Founded words:  ['interaction', 'interacted', 'interaction', 'interacted']
+
+Number:  194
+UID:  21779381
+Founded words:  ['associated']
+
+Number:  195
+UID:  21779381
+Founded words:  ['association']
+
+Number:  196
+UID:  21779381
+Founded words:  ['association', 'associated', 'associated', 'associated']
+
+Number:  197
+UID:  21779381
+Founded words:  ['associations', 'association']
+
+Number:  198
+UID:  21765445
+Founded words:  ['activation', 'mediated']
+
+Number:  199
+UID:  21738672
+Founded words:  ['activated', 'activated', 'activated', 'activates', 'activate', 'associated']
+
+Number:  200
+UID:  21712774
+Founded words:  ['regulated']
+
+Number:  201
+UID:  21712774
+Founded words:  ['regulates']
+
+Number:  202
+UID:  21707077
+Founded words:  ['binding', 'binding']
+
+Number:  203
+UID:  21695060
+Founded words:  ['regulated']
+
+Number:  204
+UID:  21674237
+Founded words:  ['mediated']
+
+Number:  205
+UID:  21670066
+Founded words:  ['interaction', 'interaction', 'interaction', 'interacting', 'interaction', 'interaction', 'interaction', 'interacting', 'mediates', 'regulate', 'regulates']
+
+Number:  206
+UID:  21666671
+Founded words:  ['activation', 'regulating', 'regulator', 'regulating']
+
+Number:  207
+UID:  21630010
+Founded words:  ['activation', 'activation', 'activator', 'associated']
+
+Number:  208
+UID:  21613623
+Founded words:  ['associated', 'associated', 'bind', 'binds', 'bind']
+
+Number:  209
+UID:  21613622
+Founded words:  ['binding', 'binds', 'binding']
+
+Number:  210
+UID:  21612159
+Founded words:  ['function', 'function']
+
+Number:  211
+UID:  21576249
+Founded words:  ['activate', 'interaction', 'interaction', 'regulating', 'regulating']
+
+Number:  212
+UID:  21565331
+Founded words:  ['interaction', 'interaction', 'regulator', 'regulate', 'regulated']
+
+Number:  213
+UID:  21557719
+Founded words:  ['associated', 'regulation', 'regulation', 'regulate']
+
+Number:  214
+UID:  21519046
+Founded words:  ['activation', 'activation', 'activation']
+
+Number:  215
+UID:  21519046
+Founded words:  ['activation']
+
+Number:  216
+UID:  21500352
+Founded words:  ['association']
+
+Number:  217
+UID:  21413990
+Founded words:  ['regulated', 'function', 'function']
+
+Number:  218
+UID:  21342558
+Founded words:  ['interactions', 'interactions']
+
+Number:  219
+UID:  21354237
+Founded words:  ['interaction', 'interaction', 'binding', 'binding']
+
+Number:  220
+UID:  21336821
+Founded words:  ['activation', 'activation', 'regulating', 'regulating']
+
+Number:  221
+UID:  21307265
+Founded words:  ['activated', 'mediate', 'mediate', 'regulating', 'regulating', 'function', 'function']
+
+Number:  222
+UID:  21258151
+Founded words:  ['associated', 'mediated', 'complexes']
+
+Number:  223
+UID:  21257714
+Founded words:  ['mediated']
+
+Number:  224
+UID:  21166521
+Founded words:  ['binding', 'binding']
+
+Number:  225
+UID:  21073877
+Founded words:  ['binding', 'bind', 'binds', 'binding', 'bind', 'function', 'function']
+
+Number:  226
+UID:  21072203
+Founded words:  ['functions', 'function', 'function', 'functions']
+
+Number:  227
+UID:  21072203
+Founded words:  ['interact', 'interact']
+
+Number:  228
+UID:  21072203
+Founded words:  ['interaction', 'interaction']
+
+Number:  229
+UID:  20943756
+Founded words:  ['function', 'function', 'function', 'function']
+
+Number:  230
+UID:  20930275
+Founded words:  ['association']
+
+Number:  231
+UID:  20926259
+Founded words:  ['activation', 'associated', 'regulate']
+
+Number:  232
+UID:  20880704
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  233
+UID:  20853423
+Founded words:  ['interaction', 'interaction', 'functions', 'functions']
+
+Number:  234
+UID:  20826464
+Founded words:  ['regulation', 'regulation', 'regulates', 'function', 'function']
+
+Number:  235
+UID:  20819221
+Founded words:  ['associated', 'associated']
+
+Number:  236
+UID:  20806954
+Founded words:  ['interactions', 'interactions', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'complex', 'complex', 'complexes', 'complexes', 'complex', 'complex']
+
+Number:  237
+UID:  20795944
+Founded words:  ['mediates']
+
+Number:  238
+UID:  20702627
+Founded words:  ['complex', 'complex']
+
+Number:  239
+UID:  20693630
+Founded words:  ['interacts', 'interacts', 'binds']
+
+Number:  240
+UID:  20679486
+Founded words:  ['binding', 'binding', 'complexes', 'complexes', 'function', 'function']
+
+Number:  241
+UID:  20674096
+Founded words:  ['interaction', 'interaction', 'interacting', 'interacting', 'interact', 'associated', 'interaction', 'interaction', 'interacting', 'interacting', 'interact', 'binding', 'binding']
+
+Number:  242
+UID:  20600777
+Founded words:  ['regulation', 'regulation']
+
+Number:  243
+UID:  20599477
+Founded words:  ['mediated']
+
+Number:  244
+UID:  20523023
+Founded words:  ['regulate', 'function', 'function']
+
+Number:  245
+UID:  20523023
+Founded words:  ['regulation', 'regulation']
+
+Number:  246
+UID:  20523023
+Founded words:  ['regulation', 'regulation']
+
+Number:  247
+UID:  20523023
+Founded words:  ['regulating', 'regulating']
+
+Number:  248
+UID:  20484053
+Founded words:  ['interaction', 'interaction', 'binding', 'bind', 'bind', 'bind', 'binding', 'bind', 'bind', 'bind', 'complex', 'complex', 'regulate', 'regulate']
+
+Number:  249
+UID:  20453200
+Founded words:  ['regulating', 'regulating', 'regulate', 'regulating', 'regulating', 'regulates', 'regulates']
+
+Number:  250
+UID:  20418378
+Founded words:  ['binding', 'bind', 'binding', 'bind', 'mediates', 'complex', 'complex', 'complex', 'complex']
+
+Number:  251
+UID:  20412384
+Founded words:  ['functioned']
+
+Number:  252
+UID:  20399652
+Founded words:  ['bind', 'bind']
+
+Number:  253
+UID:  20354142
+Founded words:  ['mediates', 'mediates', 'complex', 'complex', 'regulating', 'regulating']
+
+Number:  254
+UID:  20236612
+Founded words:  ['regulatory', 'functions', 'functions']
+
+Number:  255
+UID:  20224283
+Founded words:  ['interact', 'interact', 'binds']
+
+Number:  256
+UID:  20224283
+Founded words:  ['mediated']
+
+Number:  257
+UID:  20212127
+Founded words:  ['mediated', 'regulate']
+
+Number:  258
+UID:  20176482
+Founded words:  ['interacts', 'interacts']
+
+Number:  259
+UID:  20163459
+Founded words:  ['regulating', 'regulated', 'regulated', 'regulated', 'regulated', 'regulating', 'functions', 'functions', 'functions', 'functions']
+
+Number:  260
+UID:  20111991
+Founded words:  ['interaction', 'interaction']
+
+Number:  261
+UID:  20043700
+Founded words:  ['interactions', 'interactions']
+
+Number:  262
+UID:  20043696
+Founded words:  ['interaction', 'interaction', 'interaction', 'interact', 'interaction', 'interaction', 'interaction', 'interact', 'binding', 'binding']
+
+Number:  263
+UID:  20041192
+Founded words:  ['regulate', 'regulate', 'functions', 'functions']
+
+Number:  264
+UID:  19968289
+Founded words:  ['interactions', 'interactions', 'binding', 'binding']
+
+Number:  265
+UID:  19959359
+Founded words:  ['interactions', 'interactions']
+
+Number:  266
+UID:  19815556
+Founded words:  ['activated', 'associated', 'mediator', 'function', 'function']
+
+Number:  267
+UID:  19773363
+Founded words:  ['complexes', 'complexes']
+
+Number:  268
+UID:  19757823
+Founded words:  ['binding', 'binding']
+
+Number:  269
+UID:  19682432
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'regulation', 'regulation', 'regulatory', 'regulation', 'regulation', 'regulates']
+
+Number:  270
+UID:  19679113
+Founded words:  ['associated']
+
+Number:  271
+UID:  19659691
+Founded words:  ['interaction', 'interaction', 'bind', 'bind', 'regulate', 'regulate']
+
+Number:  272
+UID:  19564338
+Founded words:  ['activation', 'mediated', 'regulate']
+
+Number:  273
+UID:  19536656
+Founded words:  ['mediate', 'mediated', 'mediate', 'regulation', 'regulation', 'regulatory', 'regulation', 'regulation', 'functions', 'functions']
+
+Number:  274
+UID:  19533374
+Founded words:  ['binding', 'binding', 'complex', 'complex']
+
+Number:  275
+UID:  19508864
+Founded words:  ['activation', 'activation', 'mediated', 'mediates']
+
+Number:  276
+UID:  19486882
+Founded words:  ['interaction', 'interaction', 'interaction', 'interaction', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  277
+UID:  19429494
+Founded words:  ['activates', 'regulation', 'regulation', 'regulation', 'regulation', 'functions', 'functions', 'function', 'function', 'functions', 'functions']
+
+Number:  278
+UID:  19345096
+Founded words:  ['interactions', 'interactions', 'interactions', 'interactions']
+
+Number:  279
+UID:  19302194
+Founded words:  ['complex', 'complex', 'regulation', 'regulatory', 'regulation']
+
+Number:  280
+UID:  19196715
+Founded words:  ['mediates']
+
+Number:  281
+UID:  19153172
+Founded words:  ['association']
+
+Number:  282
+UID:  19064719
+Founded words:  ['regulation', 'regulation', 'regulated', 'regulated', 'regulated']
+
+Number:  283
+UID:  19056495
+Founded words:  ['complex', 'complex', 'function', 'function']
+
+Number:  284
+UID:  19013792
+Founded words:  ['binding', 'binding']
+
+Number:  285
+UID:  19013073
+Founded words:  ['binding', 'binding']
+
+Number:  286
+UID:  19011241
+Founded words:  ['interact', 'interact', 'regulation', 'regulation', 'regulate']
+
+Number:  287
+UID:  18940784
+Founded words:  ['interactive', 'interactive', 'complex', 'complexes', 'complex', 'regulators', 'regulating', 'regulating', 'regulates']
+
+Number:  288
+UID:  18936252
+Founded words:  ['interaction', 'association', 'associates', 'associates', 'interaction', 'regulation', 'regulation', 'regulation', 'regulation']
+
+Number:  289
+UID:  18842420
+Founded words:  ['binding', 'binding']
+
+Number:  290
+UID:  18812194
+Founded words:  ['functions', 'function', 'function', 'functions']
+
+Number:  291
+UID:  18798280
+Founded words:  ['activated', 'activated', 'complex', 'complex', 'complex', 'complex']
+
+Number:  292
+UID:  18790604
+Founded words:  ['associated', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'function', 'function']
+
+Number:  293
+UID:  18660751
+Founded words:  ['regulation', 'regulation']
+
+Number:  294
+UID:  18655784
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  295
+UID:  18650447
+Founded words:  ['activation', 'activation', 'associated', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'regulation', 'regulation', 'function', 'function']
+
+Number:  296
+UID:  18468890
+Founded words:  ['interactions', 'interactions', 'binding', 'binding']
+
+Number:  297
+UID:  18387811
+Founded words:  ['interact', 'interact', 'binding', 'binding', 'regulate']
+
+Number:  298
+UID:  18378702
+Founded words:  ['activation', 'activated', 'binding', 'binding', 'regulation', 'regulation']
+
+Number:  299
+UID:  18374657
+Founded words:  ['interact', 'interact']
+
+Number:  300
+UID:  18365688
+Founded words:  ['bind', 'bind', 'regulatory']
+
+Number:  301
+UID:  18341989
+Founded words:  ['activator', 'activator', 'interacts', 'interacts']
+
+Number:  302
+UID:  18326038
+Founded words:  ['activation', 'activation', 'activation', 'activation', 'activation']
+
+Number:  303
+UID:  18255190
+Founded words:  ['activation', 'activation', 'regulator', 'regulation', 'regulation', 'regulated']
+
+Number:  304
+UID:  18226904
+Founded words:  ['binding', 'binds', 'binding']
+
+Number:  305
+UID:  18182389
+Founded words:  ['interactions', 'interacted', 'interactions', 'interacted', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'mediated', 'complexes']
+
+Number:  306
+UID:  18163181
+Founded words:  ['function', 'function']
+
+Number:  307
+UID:  17986385
+Founded words:  ['regulation', 'regulation']
+
+Number:  308
+UID:  17897958
+Founded words:  ['regulatory']
+
+Number:  309
+UID:  17764014
+Founded words:  ['associate', 'associate', 'associate', 'binding', 'binds', 'binding']
+
+Number:  310
+UID:  17650113
+Founded words:  ['activator', 'regulate']
+
+Number:  311
+UID:  17566645
+Founded words:  ['regulated', 'regulated', 'regulated', 'function', 'function']
+
+Number:  312
+UID:  17542811
+Founded words:  ['binding', 'binding']
+
+Number:  313
+UID:  17463224
+Founded words:  ['interaction', 'interacts', 'interaction', 'interacts']
+
+Number:  314
+UID:  17439957
+Founded words:  ['regulatory', 'regulated']
+
+Number:  315
+UID:  17425515
+Founded words:  ['mediated', 'regulates']
+
+Number:  316
+UID:  17385716
+Founded words:  ['activation', 'activation', 'activator', 'activated', 'activated', 'activated', 'activated', 'associated', 'binding', 'binding', 'binding', 'binding', 'regulation', 'regulation']
+
+Number:  317
+UID:  17315857
+Founded words:  ['interactions', 'interactions', 'binding', 'binding']
+
+Number:  318
+UID:  17315856
+Founded words:  ['binding', 'binding']
+
+Number:  319
+UID:  17306421
+Founded words:  ['associated', 'mediated', 'regulation', 'regulation']
+
+Number:  320
+UID:  17303576
+Founded words:  ['binding', 'binding', 'mediated']
+
+Number:  321
+UID:  17241154
+Founded words:  ['interactions', 'interacting', 'interact', 'interactions', 'interacting', 'interact', 'bind', 'binds', 'bind', 'mediating', 'functions', 'functions']
+
+Number:  322
+UID:  17168646
+Founded words:  ['interaction', 'interaction', 'interaction', 'interaction', 'binding', 'binding', 'complexity', 'regulation', 'regulatory', 'regulation', 'function', 'function']
+
+Number:  323
+UID:  17151287
+Founded words:  ['activated', 'interaction', 'interacts', 'interaction', 'interacts']
+
+Number:  324
+UID:  17083447
+Founded words:  ['activation']
+
+Number:  325
+UID:  17075903
+Founded words:  ['interaction', 'interacts', 'interaction', 'interacts', 'complex', 'complex', 'regulator', 'functioning', 'functioning', 'functioning']
+
+Number:  326
+UID:  16978875
+Founded words:  ['association', 'regulating', 'regulating']
+
+Number:  327
+UID:  16965550
+Founded words:  ['interaction', 'interaction', 'interacted', 'association', 'interaction', 'interaction', 'interacted', 'regulation', 'regulation', 'regulated', 'function', 'function']
+
+Number:  328
+UID:  16885340
+Founded words:  ['activation']
+
+Number:  329
+UID:  16848722
+Founded words:  ['activation', 'activation', 'interaction', 'interaction', 'complex', 'complex', 'regulates', 'functions', 'functions']
+
+Number:  330
+UID:  16834339
+Founded words:  ['complex', 'complex']
+
+Number:  331
+UID:  16829951
+Founded words:  ['mediate', 'mediate', 'regulated', 'function', 'function']
+
+Number:  332
+UID:  16823808
+Founded words:  ['interacting', 'interacting', 'binds', 'regulating', 'regulating', 'functions', 'functions']
+
+Number:  333
+UID:  16821787
+Founded words:  ['interactions', 'interactions']
+
+Number:  334
+UID:  16814100
+Founded words:  ['mediated']
+
+Number:  335
+UID:  16806063
+Founded words:  ['regulator']
+
+Number:  336
+UID:  16805816
+Founded words:  ['interaction', 'associate', 'associate', 'associate', 'interaction', 'bind', 'bind', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  337
+UID:  16804564
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'complexes', 'complexes', 'complex', 'complex', 'complex', 'complex', 'regulatory']
+
+Number:  338
+UID:  16803455
+Founded words:  ['mediated', 'mediated', 'regulated']
+
+Number:  339
+UID:  16794858
+Founded words:  ['association', 'regulation', 'regulation']
+
+Number:  340
+UID:  16782893
+Founded words:  ['activation', 'activated', 'function', 'function']
+
+Number:  341
+UID:  16775329
+Founded words:  ['activated', 'mediates', 'regulator']
+
+Number:  342
+UID:  16768455
+Founded words:  ['interact', 'interact', 'binding', 'binding', 'complex', 'complex']
+
+Number:  343
+UID:  16762326
+Founded words:  ['regulated', 'regulated']
+
+Number:  344
+UID:  16757812
+Founded words:  ['regulatory', 'regulated']
+
+Number:  345
+UID:  16757811
+Founded words:  ['interaction', 'interaction', 'regulatory', 'regulatory', 'regulatory', 'regulatory', 'regulated', 'function', 'function']
+
+Number:  346
+UID:  16756946
+Founded words:  ['complex', 'complexes', 'complex']
+
+Number:  347
+UID:  16735514
+Founded words:  ['activation', 'activation', 'associated', 'regulator', 'regulated']
+
+Number:  348
+UID:  16723274
+Founded words:  ['complex', 'complex']
+
+Number:  349
+UID:  16714209
+Founded words:  ['mediated', 'regulating', 'regulation', 'regulation', 'regulating']
+
+Number:  350
+UID:  16687212
+Founded words:  ['complex', 'complex', 'regulatory', 'regulatory', 'function', 'function']
+
+Number:  351
+UID:  16685144
+Founded words:  ['regulated']
+
+Number:  352
+UID:  16680150
+Founded words:  ['activating']
+
+Number:  353
+UID:  16648485
+Founded words:  ['activation', 'interactions', 'interactions', 'binds', 'regulation', 'regulatory', 'regulation', 'regulates', 'function', 'function']
+
+Number:  354
+UID:  16645044
+Founded words:  ['activation', 'binding', 'binding', 'mediated', 'mediated', 'complex', 'complex', 'complex', 'complex', 'regulation', 'regulation', 'regulate', 'regulated', 'functions', 'functions']
+
+Number:  355
+UID:  16641999
+Founded words:  ['interacting', 'interacting', 'complex', 'complexes', 'complexes', 'complexes', 'complexes', 'complexes', 'complexes', 'complex', 'regulatory', 'regulates', 'functions', 'functions']
+
+Number:  356
+UID:  16636269
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'functions', 'functions']
+
+Number:  357
+UID:  16619032
+Founded words:  ['activation', 'regulator']
+
+Number:  358
+UID:  16614005
+Founded words:  ['functions', 'functions']
+
+Number:  359
+UID:  16614000
+Founded words:  ['activated']
+
+Number:  360
+UID:  16611980
+Founded words:  ['function', 'function']
+
+Number:  361
+UID:  16605258
+Founded words:  ['mediates', 'complex', 'complex', 'complex', 'complex', 'regulate', 'regulated', 'function', 'function']
+
+Number:  362
+UID:  16569643
+Founded words:  ['binding', 'binding', 'binds', 'binding', 'binding', 'complex', 'complex', 'complex', 'complex']
+
+Number:  363
+UID:  16565325
+Founded words:  ['interactions', 'interactions', 'complex', 'complex', 'complex', 'complex', 'regulatory', 'regulated']
+
+Number:  364
+UID:  16539675
+Founded words:  ['interact', 'interact', 'complex', 'complex', 'complexes', 'complexes', 'complexes', 'complex', 'complex']
+
+Number:  365
+UID:  16539391
+Founded words:  ['activation', 'activation', 'activation', 'activators', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  366
+UID:  16531402
+Founded words:  ['activation', 'activator', 'activator', 'activates', 'binding', 'binds', 'binding', 'regulator', 'regulate']
+
+Number:  367
+UID:  16524370
+Founded words:  ['mediate', 'mediate', 'functions', 'functions']
+
+Number:  368
+UID:  16451048
+Founded words:  ['complex', 'complex']
+
+Number:  369
+UID:  16449801
+Founded words:  ['regulating', 'regulating']
+
+Number:  370
+UID:  16449647
+Founded words:  ['activation', 'binding', 'binding', 'binding', 'binding', 'mediate', 'mediate', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'regulation', 'regulation', 'regulated', 'functions', 'function', 'function', 'functions']
+
+Number:  371
+UID:  16449386
+Founded words:  ['association', 'binds', 'mediates']
+
+Number:  372
+UID:  16440311
+Founded words:  ['activation', 'binding', 'binding', 'mediated']
+
+Number:  373
+UID:  16407538
+Founded words:  ['interactions', 'interactions', 'interactions', 'interactions', 'interaction', 'interaction', 'interacts', 'interacts', 'interact', 'interactions', 'interactions', 'interactions', 'interactions', 'interaction', 'interaction', 'interacts', 'interacts', 'interact', 'complex', 'complex']
+
+Number:  374
+UID:  16405513
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  375
+UID:  16371134
+Founded words:  ['activation', 'complex', 'complex', 'complex', 'complex', 'regulated']
+
+Number:  376
+UID:  16365303
+Founded words:  ['associated']
+
+Number:  377
+UID:  16363061
+Founded words:  ['activation', 'activated', 'activated', 'associated', 'regulates', 'function', 'function']
+
+Number:  378
+UID:  16360140
+Founded words:  ['activation', 'regulating', 'regulating']
+
+Number:  379
+UID:  16354928
+Founded words:  ['functions', 'functions']
+
+Number:  380
+UID:  16344553
+Founded words:  ['activated', 'regulatory']
+
+Number:  381
+UID:  16342950
+Founded words:  ['interaction', 'interaction', 'interact', 'associated', 'interaction', 'interaction', 'interact', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  382
+UID:  16305800
+Founded words:  ['activation', 'associated', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  383
+UID:  16305624
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'complex', 'complex']
+
+Number:  384
+UID:  16303768
+Founded words:  ['association', 'associated', 'mediated', 'complex', 'complex', 'regulation', 'regulation']
+
+Number:  385
+UID:  16302802
+Founded words:  ['complex', 'complex']
+
+Number:  386
+UID:  16300641
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'bind', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'bind']
+
+Number:  387
+UID:  16293708
+Founded words:  ['activation', 'binding', 'binding', 'complex', 'complex', 'complex', 'complex', 'regulator', 'regulatory', 'regulated', 'regulated', 'regulates']
+
+Number:  388
+UID:  16279945
+Founded words:  ['regulatory']
+
+Number:  389
+UID:  16271805
+Founded words:  ['associated', 'regulator']
+
+Number:  390
+UID:  16258245
+Founded words:  ['interaction', 'interaction', 'binding', 'binding', 'binding', 'binding']
+
+Number:  391
+UID:  16251361
+Founded words:  ['activation', 'activation', 'regulating', 'regulated', 'regulating']
+
+Number:  392
+UID:  16236717
+Founded words:  ['activated', 'bind', 'bind', 'complex', 'complex']
+
+Number:  393
+UID:  16236709
+Founded words:  ['regulator']
+
+Number:  394
+UID:  16234244
+Founded words:  ['activation', 'interaction', 'interaction', 'binding', 'binding', 'binding', 'bind', 'binding', 'binding', 'binding', 'bind', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  395
+UID:  16234243
+Founded words:  ['activating', 'interactions', 'interaction', 'interactions', 'interaction', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'mediate', 'mediate', 'complexes', 'regulatory']
+
+Number:  396
+UID:  16227967
+Founded words:  ['activates', 'regulate', 'function', 'function', 'function', 'function']
+
+Number:  397
+UID:  16221845
+Founded words:  ['activation', 'activation', 'activation', 'interaction', 'associated', 'interaction']
+
+Number:  398
+UID:  16219802
+Founded words:  ['mediates', 'regulatory', 'functions', 'function', 'function', 'function', 'function', 'functions']
+
+Number:  399
+UID:  16166587
+Founded words:  ['activating', 'activating', 'activating']
+
+Number:  400
+UID:  16150730
+Founded words:  ['regulated']
+
+Number:  401
+UID:  16135086
+Founded words:  ['interactions', 'interactions', 'complex', 'complex', 'complex', 'complexes', 'complexes', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  402
+UID:  16115865
+Founded words:  ['associate', 'associate', 'associate', 'associated', 'regulation', 'regulation']
+
+Number:  403
+UID:  16114893
+Founded words:  ['interactions', 'interactions', 'binding', 'binding', 'binding', 'bind', 'binding', 'binding', 'binding', 'bind']
+
+Number:  404
+UID:  16103124
+Founded words:  ['activated', 'activate', 'activate', 'complex', 'complex']
+
+Number:  405
+UID:  16096062
+Founded words:  ['binding', 'binds', 'binding', 'complex', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  406
+UID:  16096051
+Founded words:  ['complex', 'complex', 'function', 'function']
+
+Number:  407
+UID:  16095541
+Founded words:  ['activators', 'mediator']
+
+Number:  408
+UID:  16095541
+Founded words:  ['mediate', 'mediate']
+
+Number:  409
+UID:  16078837
+Founded words:  ['interactions', 'interactions']
+
+Number:  410
+UID:  16054886
+Founded words:  ['function', 'function', 'functioned']
+
+Number:  411
+UID:  16054021
+Founded words:  ['activation']
+
+Number:  412
+UID:  16046406
+Founded words:  ['complex', 'complex']
+
+Number:  413
+UID:  16042544
+Founded words:  ['activation', 'mediates']
+
+Number:  414
+UID:  16037408
+Founded words:  ['activation', 'regulation', 'regulation']
+
+Number:  415
+UID:  16014629
+Founded words:  ['activation', 'activation', 'activation', 'activation', 'regulates']
+
+Number:  416
+UID:  16001967
+Founded words:  ['interact', 'interact', 'bind', 'bind', 'complex', 'complex', 'complex', 'complexes', 'complex', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  417
+UID:  15994140
+Founded words:  ['complexity', 'function', 'function']
+
+Number:  418
+UID:  15987683
+Founded words:  ['complex', 'complex']
+
+Number:  419
+UID:  15985438
+Founded words:  ['activation', 'association', 'regulates']
+
+Number:  420
+UID:  15983030
+Founded words:  ['binding', 'binding', 'mediator', 'regulator', 'regulated', 'regulated', 'function', 'function']
+
+Number:  421
+UID:  15975090
+Founded words:  ['interacts', 'interacts', 'complex', 'complex', 'complex', 'complex', 'regulating', 'regulating', 'regulates']
+
+Number:  422
+UID:  15974927
+Founded words:  ['regulation', 'regulation', 'regulation', 'regulation', 'function', 'function']
+
+Number:  423
+UID:  15965470
+Founded words:  ['activates', 'activating', 'interaction', 'interaction', 'associated', 'interaction', 'interaction', 'binds', 'binds', 'mediates', 'regulated']
+
+Number:  424
+UID:  15958385
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  425
+UID:  15950758
+Founded words:  ['activated', 'binding', 'binding', 'binding', 'binding', 'mediated', 'regulated']
+
+Number:  426
+UID:  15940249
+Founded words:  ['activation', 'activation', 'activated', 'activated', 'function', 'function']
+
+Number:  427
+UID:  15917251
+Founded words:  ['interactions', 'interaction', 'interacts', 'interact', 'associates', 'associates', 'interactions', 'interaction', 'interacts', 'interact', 'complex', 'complex']
+
+Number:  428
+UID:  15887117
+Founded words:  ['mediator', 'mediators']
+
+Number:  429
+UID:  15887117
+Founded words:  ['mediator']
+
+Number:  430
+UID:  15886016
+Founded words:  ['interaction', 'interaction', 'interacts', 'interaction', 'interaction', 'interacts', 'bind', 'bind', 'mediate', 'mediate', 'regulates']
+
+Number:  431
+UID:  15880353
+Founded words:  ['associated', 'mediates', 'regulate']
+
+Number:  432
+UID:  15866047
+Founded words:  ['complex', 'complex', 'regulated']
+
+Number:  433
+UID:  15845357
+Founded words:  ['interact', 'associated', 'interact']
+
+Number:  434
+UID:  15833746
+Founded words:  ['associated', 'mediated']
+
+Number:  435
+UID:  15814625
+Founded words:  ['associated', 'function', 'function']
+
+Number:  436
+UID:  15814625
+Founded words:  ['mediated']
+
+Number:  437
+UID:  15814625
+Founded words:  ['regulate', 'function', 'function']
+
+Number:  438
+UID:  15778502
+Founded words:  ['activation', 'activate']
+
+Number:  439
+UID:  15777285
+Founded words:  ['complex', 'complex', 'regulated']
+
+Number:  440
+UID:  15774577
+Founded words:  ['regulating', 'regulate', 'regulating']
+
+Number:  441
+UID:  15772078
+Founded words:  ['interaction', 'interaction', 'mediates', 'complex', 'complex', 'complex', 'complex']
+
+Number:  442
+UID:  15766262
+Founded words:  ['association', 'associated', 'mediates', 'complex', 'complex', 'complex', 'complex', 'complex', 'complexes', 'complexes', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  443
+UID:  15763173
+Founded words:  ['interact', 'interact', 'binding', 'bind', 'binding', 'bind', 'regulating', 'regulation', 'regulatory', 'regulation', 'regulating']
+
+Number:  444
+UID:  15749709
+Founded words:  ['interaction', 'interaction', 'interacts', 'interact', 'association', 'interaction', 'interaction', 'interacts', 'interact']
+
+Number:  445
+UID:  15746097
+Founded words:  ['activating', 'activate', 'mediated', 'regulating', 'regulation', 'regulation', 'regulating', 'regulates']
+
+Number:  446
+UID:  15745965
+Founded words:  ['interactions', 'associations', 'associated', 'interactions', 'complex', 'complex']
+
+Number:  447
+UID:  15743924
+Founded words:  ['association']
+
+Number:  448
+UID:  15722417
+Founded words:  ['bind', 'bind', 'complex', 'complex']
+
+Number:  449
+UID:  15722349
+Founded words:  ['interacts', 'interacts', 'bind', 'binds', 'binds', 'bind']
+
+Number:  450
+UID:  15721236
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  451
+UID:  15718241
+Founded words:  ['association']
+
+Number:  452
+UID:  15716592
+Founded words:  ['association', 'association', 'associated', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  453
+UID:  15715666
+Founded words:  ['complex', 'complex', 'complex', 'complex']
+
+Number:  454
+UID:  15715652
+Founded words:  ['activation', 'interactions', 'interacts', 'interacts', 'interacts', 'interactions', 'interacts', 'interacts', 'interacts', 'complex', 'complexes', 'complexes', 'complexes', 'complex']
+
+Number:  455
+UID:  15703394
+Founded words:  ['activation', 'activation', 'regulated']
+
+Number:  456
+UID:  15695338
+Founded words:  ['activator', 'interact', 'interact', 'interact', 'interact']
+
+Number:  457
+UID:  15694266
+Founded words:  ['activator']
+
+Number:  458
+UID:  15681800
+Founded words:  ['regulation', 'regulation', 'regulated', 'regulated']
+
+Number:  459
+UID:  15667924
+Founded words:  ['binding', 'binding', 'functions', 'functions']
+
+Number:  460
+UID:  15659814
+Founded words:  ['interactions', 'interaction', 'interaction', 'interacts', 'interact', 'interactions', 'interaction', 'interaction', 'interacts', 'interact', 'function', 'function']
+
+Number:  461
+UID:  15659232
+Founded words:  ['activation', 'activation', 'activation', 'activators', 'activating', 'mediator', 'mediate', 'mediate', 'regulate']
+
+Number:  462
+UID:  15615712
+Founded words:  ['binds', 'function', 'function']
+
+Number:  463
+UID:  15614428
+Founded words:  ['activate']
+
+Number:  464
+UID:  15613471
+Founded words:  ['binding', 'binding', 'complex', 'complex', 'complex', 'complex', 'complexes', 'complex', 'complex', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  465
+UID:  15611067
+Founded words:  ['associated', 'mediated', 'regulated', 'function', 'function']
+
+Number:  466
+UID:  15606899
+Founded words:  ['interacting', 'interacting', 'interact', 'interacting', 'interacting', 'interact']
+
+Number:  467
+UID:  15592359
+Founded words:  ['activation', 'activation', 'activation', 'mediated', 'regulate']
+
+Number:  468
+UID:  15591316
+Founded words:  ['associated', 'associated', 'binding', 'binding', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  469
+UID:  15584902
+Founded words:  ['binding', 'binding']
+
+Number:  470
+UID:  15574741
+Founded words:  ['activation', 'activating']
+
+Number:  471
+UID:  15569674
+Founded words:  ['interaction', 'interacts', 'association', 'interaction', 'interacts', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  472
+UID:  15568990
+Founded words:  ['regulation', 'regulatory', 'regulation', 'regulated']
+
+Number:  473
+UID:  15563588
+Founded words:  ['associated', 'binds', 'complex', 'complex', 'complex', 'complex']
+
+Number:  474
+UID:  15548998
+Founded words:  ['activated', 'associated']
+
+Number:  475
+UID:  15541883
+Founded words:  ['associated', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  476
+UID:  15540986
+Founded words:  ['activation']
+
+Number:  477
+UID:  15537629
+Founded words:  ['binding', 'binding', 'mediate', 'mediating', 'mediate', 'complex', 'complexes', 'complex', 'regulatory', 'function', 'function']
+
+Number:  478
+UID:  15519759
+Founded words:  ['mediators']
+
+Number:  479
+UID:  15485862
+Founded words:  ['binding', 'binding', 'complex', 'complex']
+
+Number:  480
+UID:  15474363
+Founded words:  ['complex', 'complex', 'complex', 'complexes', 'complexes', 'complexes', 'complex', 'complex', 'complex']
+
+Number:  481
+UID:  15473868
+Founded words:  ['activation', 'activation', 'activation', 'associated', 'associated', 'associated', 'function', 'function']
+
+Number:  482
+UID:  15472075
+Founded words:  ['activated', 'activating', 'regulates']
+
+Number:  483
+UID:  15456788
+Founded words:  ['complex', 'complex', 'complexes', 'complex', 'complex']
+
+Number:  484
+UID:  15452145
+Founded words:  ['interacts', 'interacts', 'mediates']
+
+Number:  485
+UID:  15451669
+Founded words:  ['complex', 'complex']
+
+Number:  486
+UID:  15448134
+Founded words:  ['activating', 'regulatory']
+
+Number:  487
+UID:  15347683
+Founded words:  ['activators', 'activates', 'associated', 'mediate', 'mediate', 'regulating', 'regulation', 'regulation', 'regulate', 'regulating']
+
+Number:  488
+UID:  15341520
+Founded words:  ['activation', 'interaction', 'interaction', 'interaction', 'interact', 'interaction', 'interaction', 'interaction', 'interact', 'binding', 'binding', 'complex', 'complex', 'complexes', 'complex', 'complex', 'regulated', 'regulated']
+
+Number:  489
+UID:  15341515
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  490
+UID:  15336962
+Founded words:  ['function', 'function']
+
+Number:  491
+UID:  15326347
+Founded words:  ['regulate', 'functions', 'functions']
+
+Number:  492
+UID:  15322123
+Founded words:  ['interactions', 'interaction', 'interaction', 'interact', 'association', 'association', 'associate', 'associate', 'associate', 'associated', 'interactions', 'interaction', 'interaction', 'interact', 'mediate', 'mediate', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  493
+UID:  15322084
+Founded words:  ['association', 'association', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'regulating', 'regulating']
+
+Number:  494
+UID:  15319485
+Founded words:  ['activator']
+
+Number:  495
+UID:  15308312
+Founded words:  ['function', 'function']
+
+Number:  496
+UID:  15304096
+Founded words:  ['regulating', 'regulation', 'regulation', 'regulating', 'function', 'function']
+
+Number:  497
+UID:  15289451
+Founded words:  ['mediated', 'regulated']
+
+Number:  498
+UID:  15287727
+Founded words:  ['associated', 'mediated']
+
+Number:  499
+UID:  15286784
+Founded words:  ['binding', 'binding']
+
+Number:  500
+UID:  15286082
+Founded words:  ['associated', 'complex', 'complex', 'complexes', 'complexes', 'complexes', 'complexes', 'complex', 'complex', 'functions', 'functions']
+
+Number:  501
+UID:  15274632
+Founded words:  ['complex', 'complex', 'regulatory', 'regulate']
+
+Number:  502
+UID:  15248287
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'regulated', 'functions', 'functions']
+
+Number:  503
+UID:  15247262
+Founded words:  ['interactions', 'associate', 'associate', 'associate', 'interactions', 'complex', 'complex']
+
+Number:  504
+UID:  15240571
+Founded words:  ['activation', 'activation', 'interacts', 'interacts']
+
+Number:  505
+UID:  15234966
+Founded words:  ['functions', 'functions']
+
+Number:  506
+UID:  15220354
+Founded words:  ['interactions', 'interactions', 'mediate', 'mediate', 'mediates']
+
+Number:  507
+UID:  15215246
+Founded words:  ['complex', 'complex']
+
+Number:  508
+UID:  15215237
+Founded words:  ['associated', 'binding', 'binding', 'complex', 'complex', 'complexes', 'complex', 'complex', 'functions', 'functions']
+
+Number:  509
+UID:  15197182
+Founded words:  ['interactions', 'interaction', 'interacts', 'interactions', 'interaction', 'interacts', 'binding', 'binding', 'binding', 'binding']
+
+Number:  510
+UID:  15184387
+Founded words:  ['activation', 'activation', 'activation', 'activation', 'activation', 'activation', 'activation', 'complex', 'complex']
+
+Number:  511
+UID:  15182369
+Founded words:  ['activates', 'regulating', 'regulating']
+
+Number:  512
+UID:  15177452
+Founded words:  ['interaction', 'interaction']
+
+Number:  513
+UID:  15147304
+Founded words:  ['associated', 'binding', 'binding', 'mediated']
+
+Number:  514
+UID:  15123735
+Founded words:  ['associated', 'associated']
+
+Number:  515
+UID:  15123653
+Founded words:  ['activation', 'regulating', 'regulating']
+
+Number:  516
+UID:  15123598
+Founded words:  ['associated', 'complex', 'complex', 'complexes', 'complexes', 'complexes', 'complexes', 'complexes', 'complex', 'complex', 'regulated', 'function', 'function']
+
+Number:  517
+UID:  15123597
+Founded words:  ['activated', 'binding', 'binding', 'regulation', 'regulation', 'regulate']
+
+Number:  518
+UID:  15117318
+Founded words:  ['interaction', 'interaction', 'interaction', 'interaction', 'complex', 'complex', 'functions', 'functions']
+
+Number:  519
+UID:  15096037
+Founded words:  ['function', 'function']
+
+Number:  520
+UID:  15087467
+Founded words:  ['binding', 'binds', 'binding', 'regulated']
+
+Number:  521
+UID:  15056474
+Founded words:  ['complex', 'complex', 'complex', 'complex']
+
+Number:  522
+UID:  15052275
+Founded words:  ['regulatory']
+
+Number:  523
+UID:  15039426
+Founded words:  ['associated', 'associated', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  524
+UID:  15037614
+Founded words:  ['associate', 'associate', 'associate', 'binding', 'binding', 'binding', 'binding', 'complex', 'complex', 'complex', 'complex', 'regulation', 'regulation']
+
+Number:  525
+UID:  15034149
+Founded words:  ['activated', 'regulation', 'regulation', 'regulation', 'regulation']
+
+Number:  526
+UID:  15023535
+Founded words:  ['interaction', 'interaction', 'association', 'associated', 'interaction', 'interaction', 'binding', 'binding', 'binding', 'binding', 'regulation', 'regulation', 'regulate', 'regulate', 'regulated', 'regulated', 'function', 'function']
+
+Number:  527
+UID:  15009669
+Founded words:  ['mediated']
+
+Number:  528
+UID:  14991462
+Founded words:  ['activated']
+
+Number:  529
+UID:  14981268
+Founded words:  ['mediated', 'complex', 'complex', 'function', 'function']
+
+Number:  530
+UID:  14756819
+Founded words:  ['interaction', 'interaction', 'binding', 'binds', 'binding', 'complex', 'complexes', 'complex', 'function', 'function']
+
+Number:  531
+UID:  14724271
+Founded words:  ['complex', 'complex', 'complex', 'complexes', 'complexes', 'complex', 'complex', 'complex', 'regulates', 'function', 'function']
+
+Number:  532
+UID:  14717586
+Founded words:  ['interacts', 'interacts', 'interact', 'interact', 'associate', 'associate', 'associate', 'interacts', 'interacts', 'interact', 'interact', 'mediates', 'complex', 'complexes', 'complexes', 'complexes', 'complexes', 'complex']
+
+Number:  533
+UID:  14704149
+Founded words:  ['complex', 'complex']
+
+Number:  534
+UID:  14699153
+Founded words:  ['activator', 'complex', 'complex', 'complex', 'complex', 'regulates', 'function', 'function', 'function', 'function']
+
+Number:  535
+UID:  14636066
+Founded words:  ['bind', 'bind']
+
+Number:  536
+UID:  14627705
+Founded words:  ['interaction', 'interaction', 'association', 'interaction', 'interaction', 'complex', 'complex', 'complex', 'complex']
+
+Number:  537
+UID:  14625299
+Founded words:  ['regulate', 'function', 'function']
+
+Number:  538
+UID:  14622115
+Founded words:  ['activation', 'interactions', 'interaction', 'interactions', 'interaction', 'binding', 'binding', 'binding', 'binding', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  539
+UID:  14615541
+Founded words:  ['regulate', 'regulated']
+
+Number:  540
+UID:  14602727
+Founded words:  ['interaction', 'interacts', 'associated', 'interaction', 'interacts', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  541
+UID:  14598313
+Founded words:  ['functions', 'functions']
+
+Number:  542
+UID:  14593096
+Founded words:  ['interaction', 'association', 'associates', 'associates', 'interaction', 'complex', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  543
+UID:  14586007
+Founded words:  ['activate']
+
+Number:  544
+UID:  14572450
+Founded words:  ['activates', 'functions', 'functions']
+
+Number:  545
+UID:  14572442
+Founded words:  ['interactions', 'interaction', 'interactions', 'interaction', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  546
+UID:  14567678
+Founded words:  ['interaction', 'interaction', 'interact', 'interaction', 'interaction', 'interact', 'binding', 'binding', 'binding', 'binds', 'binding', 'binding', 'binding', 'complex', 'complex', 'regulate']
+
+Number:  547
+UID:  14566063
+Founded words:  ['binding', 'binding', 'binding', 'binding']
+
+Number:  548
+UID:  14527950
+Founded words:  ['activation', 'binding', 'bind', 'binding', 'bind', 'mediate', 'mediate']
+
+Number:  549
+UID:  14525989
+Founded words:  ['complex', 'complex', 'regulate']
+
+Number:  550
+UID:  14507929
+Founded words:  ['mediates', 'function', 'function']
+
+Number:  551
+UID:  14502086
+Founded words:  ['interaction', 'interact', 'association', 'associated', 'interaction', 'interact', 'complex', 'complex']
+
+Number:  552
+UID:  13678586
+Founded words:  ['associated', 'associated', 'binds', 'complexes', 'regulates', 'functions', 'functions', 'function', 'function', 'functions', 'functions']
+
+Number:  553
+UID:  12960155
+Founded words:  ['activation', 'activation', 'activation', 'interactions', 'interactions', 'interactions', 'interactions', 'complex', 'complex', 'complex', 'complex']
+
+Number:  554
+UID:  12917438
+Founded words:  ['interactions', 'interactions', 'interacted', 'association', 'associates', 'associate', 'associate', 'associate', 'associated', 'associated', 'associates', 'interactions', 'interactions', 'interacted', 'mediating', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'regulates']
+
+Number:  555
+UID:  12913006
+Founded words:  ['interaction', 'interaction', 'interaction', 'interaction', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'regulating', 'regulated', 'regulating', 'function', 'function', 'function', 'function']
+
+Number:  556
+UID:  12901838
+Founded words:  ['interaction', 'interaction', 'binding', 'binds', 'binding', 'complex', 'complex', 'regulator']
+
+Number:  557
+UID:  12857759
+Founded words:  ['activate']
+
+Number:  558
+UID:  12857757
+Founded words:  ['interacts', 'interacts', 'bind', 'bind', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  559
+UID:  12846562
+Founded words:  ['binding', 'binding', 'mediated', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  560
+UID:  12843253
+Founded words:  ['binds']
+
+Number:  561
+UID:  12843241
+Founded words:  ['activate', 'associated', 'binding', 'binding', 'mediates', 'regulate', 'functions', 'functions']
+
+Number:  562
+UID:  12842106
+Founded words:  ['mediates']
+
+Number:  563
+UID:  12840034
+Founded words:  ['activating', 'mediating', 'complex', 'complex']
+
+Number:  564
+UID:  12834808
+Founded words:  ['associated', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'regulation', 'regulation', 'regulated', 'functions', 'functions']
+
+Number:  565
+UID:  12826675
+Founded words:  ['activated', 'activating', 'activate', 'binding', 'binding', 'mediates', 'complexes', 'regulate', 'regulated', 'regulated']
+
+Number:  566
+UID:  12821663
+Founded words:  ['mediated', 'complex', 'complex', 'regulated']
+
+Number:  567
+UID:  12815710
+Founded words:  ['activators', 'binding', 'binding', 'regulation', 'regulatory', 'regulation']
+
+Number:  568
+UID:  12815056
+Founded words:  ['complex', 'complex', 'regulation', 'regulation', 'functions', 'functions']
+
+Number:  569
+UID:  12794186
+Founded words:  ['binding', 'binding', 'complex', 'complex', 'regulated', 'function', 'function']
+
+Number:  570
+UID:  12779321
+Founded words:  ['regulated']
+
+Number:  571
+UID:  12773031
+Founded words:  ['binding', 'binding']
+
+Number:  572
+UID:  12763025
+Founded words:  ['bind', 'bind', 'complex', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  573
+UID:  12732196
+Founded words:  ['interacts', 'interacts', 'mediates', 'regulated']
+
+Number:  574
+UID:  12719412
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'regulatory']
+
+Number:  575
+UID:  12714508
+Founded words:  ['regulate']
+
+Number:  576
+UID:  12700243
+Founded words:  ['association', 'association', 'complexes', 'regulated', 'function', 'function', 'function', 'function', 'function', 'function']
+
+Number:  577
+UID:  12692078
+Founded words:  ['interactions', 'associated', 'interactions', 'binding', 'binding', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'regulating', 'regulating']
+
+Number:  578
+UID:  12691659
+Founded words:  ['complex', 'complex', 'complex', 'complex']
+
+Number:  579
+UID:  12665519
+Founded words:  ['complex', 'complex']
+
+Number:  580
+UID:  12649271
+Founded words:  ['associated', 'regulates']
+
+Number:  581
+UID:  12644462
+Founded words:  ['associated', 'associated', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'regulated', 'function', 'function', 'function', 'function', 'function', 'function']
+
+Number:  582
+UID:  12639958
+Founded words:  ['interactions', 'interaction', 'association', 'interactions', 'interaction', 'complex', 'complex', 'complex', 'complex']
+
+Number:  583
+UID:  12629514
+Founded words:  ['regulation', 'regulation', 'regulation', 'regulation']
+
+Number:  584
+UID:  12618121
+Founded words:  ['functions', 'functions']
+
+Number:  585
+UID:  12606576
+Founded words:  ['activation', 'activation', 'activate', 'activate', 'interacts', 'interacts']
+
+Number:  586
+UID:  12586838
+Founded words:  ['interaction', 'interacts', 'interaction', 'interacts', 'complex', 'complex']
+
+Number:  587
+UID:  12568494
+Founded words:  ['activation', 'activation', 'activation', 'mediated']
+
+Number:  588
+UID:  12556458
+Founded words:  ['complex', 'complex']
+
+Number:  589
+UID:  12551931
+Founded words:  ['activators', 'interactions', 'interactions', 'mediate', 'mediated', 'mediate']
+
+Number:  590
+UID:  12515548
+Founded words:  ['complex', 'complex']
+
+Number:  591
+UID:  12475894
+Founded words:  ['activated', 'activated']
+
+Number:  592
+UID:  12472881
+Founded words:  ['activation', 'regulated']
+
+Number:  593
+UID:  12470641
+Founded words:  ['interaction', 'interaction', 'binds', 'regulation', 'regulation', 'regulation', 'regulation', 'regulation', 'regulation', 'regulation', 'regulation', 'functions', 'function', 'function', 'function', 'function', 'functions']
+
+Number:  594
+UID:  12460547
+Founded words:  ['regulates']
+
+Number:  595
+UID:  12458195
+Founded words:  ['binding', 'binding', 'complex', 'complex']
+
+Number:  596
+UID:  12454007
+Founded words:  ['association', 'association', 'complex', 'complex']
+
+Number:  597
+UID:  12437577
+Founded words:  ['interacts', 'interacts', 'mediate', 'mediate', 'complexes', 'regulated']
+
+Number:  598
+UID:  12423367
+Founded words:  ['functions', 'functions']
+
+Number:  599
+UID:  12388554
+Founded words:  ['associated', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  600
+UID:  12358789
+Founded words:  ['interactions', 'interacts', 'interact', 'interactions', 'interacts', 'interact', 'complex', 'complex', 'function', 'function']
+
+Number:  601
+UID:  12356481
+Founded words:  ['activation', 'interaction', 'interaction', 'complex', 'complex']
+
+Number:  602
+UID:  12297508
+Founded words:  ['associates', 'associates', 'complex', 'complex', 'complex', 'complex']
+
+Number:  603
+UID:  12270690
+Founded words:  ['mediated']
+
+Number:  604
+UID:  12206667
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'complex', 'complex']
+
+Number:  605
+UID:  12209127
+Founded words:  ['mediated', 'complex', 'complex', 'complex', 'complex']
+
+Number:  606
+UID:  12198112
+Founded words:  ['associated', 'complex', 'complex', 'complex', 'complexes', 'complexes', 'complex', 'complex', 'complex', 'function', 'function']
+
+Number:  607
+UID:  12161439
+Founded words:  ['regulators', 'regulator', 'regulation', 'regulation', 'regulated']
+
+Number:  608
+UID:  12135764
+Founded words:  ['binding', 'binding', 'binds', 'binding', 'binding', 'mediated']
+
+Number:  609
+UID:  12130643
+Founded words:  ['association', 'complex', 'complex', 'complexes', 'complex', 'complex', 'regulatory', 'regulated', 'regulated']
+
+Number:  610
+UID:  12128088
+Founded words:  ['complex', 'complex']
+
+Number:  611
+UID:  12119363
+Founded words:  ['associated', 'complexes', 'complexes', 'complexes', 'complexes']
+
+Number:  612
+UID:  12072428
+Founded words:  ['complex', 'complex']
+
+Number:  613
+UID:  12054541
+Founded words:  ['activating', 'functions', 'functions']
+
+Number:  614
+UID:  12054507
+Founded words:  ['activates', 'binds', 'complexes']
+
+Number:  615
+UID:  12048259
+Founded words:  ['associated', 'binding', 'binding', 'mediates', 'complex', 'complex', 'complex', 'complex', 'complexes', 'complex', 'complex', 'complex', 'complex', 'regulate', 'function', 'function', 'function', 'function']
+
+Number:  616
+UID:  12016213
+Founded words:  ['interactions', 'interactions', 'interaction', 'interacts', 'interacts', 'associated', 'interactions', 'interactions', 'interaction', 'interacts', 'interacts', 'regulatory', 'regulatory', 'regulates', 'regulates']
+
+Number:  617
+UID:  12011466
+Founded words:  ['activates', 'interaction', 'interaction', 'binds', 'binds', 'mediated', 'regulate', 'function', 'function', 'function', 'function']
+
+Number:  618
+UID:  12009756
+Founded words:  ['associated', 'associated', 'complex', 'complex']
+
+Number:  619
+UID:  11953314
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'regulator']
+
+Number:  620
+UID:  11939793
+Founded words:  ['activated', 'regulating', 'regulated', 'regulated', 'regulating']
+
+Number:  621
+UID:  11907044
+Founded words:  ['interacts', 'interacts', 'bind', 'bind', 'mediated', 'complexes', 'regulate', 'functions', 'functions']
+
+Number:  622
+UID:  11906199
+Founded words:  ['complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex', 'complex']
+
+Number:  623
+UID:  11891288
+Founded words:  ['activation', 'mediating']
+
+Number:  624
+UID:  11876645
+Founded words:  ['complex', 'complex']
+
+Number:  625
+UID:  11839734
+Founded words:  ['binding', 'binding']
+
+Number:  626
+UID:  11820778
+Founded words:  ['regulator']
+
+Number:  627
+UID:  11804702
+Founded words:  ['functions', 'functions']
+
+Number:  628
+UID:  11786905
+Founded words:  ['activation', 'activation', 'activation', 'activates']
+
+Number:  629
+UID:  11771739
+Founded words:  ['function', 'function', 'function', 'function']
+
+Number:  630
+UID:  11741961
+Founded words:  ['mediate', 'mediate', 'functions', 'function', 'function', 'functions']
+
+Number:  631
+UID:  11716984
+Founded words:  ['mediated']
+
+Number:  632
+UID:  11706054
+Founded words:  ['regulatory', 'function', 'function']
+
+Number:  633
+UID:  11679632
+Founded words:  ['activation', 'binding', 'binding', 'regulates']
+
+Number:  634
+UID:  11593035
+Founded words:  ['complex', 'complex', 'complex', 'complex']
+
+Number:  635
+UID:  11574530
+Founded words:  ['interacts', 'interacts', 'complex', 'complex']
+
+Number:  636
+UID:  11520861
+Founded words:  ['bind', 'bind']
+
+Number:  637
+UID:  11516173
+Founded words:  ['regulatory']
+
+Number:  638
+UID:  11493036
+Founded words:  ['activation', 'associated', 'mediated']
+
+Number:  639
+UID:  11477090
+Founded words:  ['regulated']
+
+Number:  640
+UID:  11465706
+Founded words:  ['activation', 'activation']
+
+Number:  641
+UID:  11463349
+Founded words:  ['mediators', 'mediate', 'mediated', 'mediated', 'mediate']
+
+Number:  642
+UID:  11459941
+Founded words:  ['activated']
+
+Number:  643
+UID:  11441186
+Founded words:  ['binding', 'binding', 'complex', 'complex', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  644
+UID:  11416218
+Founded words:  ['complex', 'complex', 'regulate', 'function', 'function']
+
+Number:  645
+UID:  11408475
+Founded words:  ['activated']
+
+Number:  646
+UID:  11306583
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'bind', 'binding', 'binding', 'binding', 'binding', 'binding', 'bind', 'complex', 'complexes', 'complex']
+
+Number:  647
+UID:  11278841
+Founded words:  ['complex', 'complex', 'regulated']
+
+Number:  648
+UID:  11238737
+Founded words:  ['regulated', 'regulated', 'regulated', 'regulated']
+
+Number:  649
+UID:  11223916
+Founded words:  ['interaction', 'interacts', 'interaction', 'interacts']
+
+Number:  650
+UID:  11193156
+Founded words:  ['regulate']
+
+Number:  651
+UID:  11193153
+Founded words:  ['activated', 'regulated']
+
+Number:  652
+UID:  11083918
+Founded words:  ['interactions', 'interact', 'interact', 'interactions', 'interact', 'interact', 'binding', 'binding', 'mediate', 'mediate', 'complexes', 'regulation', 'regulation']
+
+Number:  653
+UID:  11015226
+Founded words:  ['activation', 'activation', 'activation', 'activation', 'activation', 'activation', 'activated', 'activated', 'activating', 'regulatory']
+
+Number:  654
+UID:  10993067
+Founded words:  ['binds', 'complex', 'complexes', 'complex']
+
+Number:  655
+UID:  10922078
+Founded words:  ['complexes', 'complexes', 'complexes', 'complexes']
+
+Number:  656
+UID:  10913280
+Founded words:  ['function', 'function']
+
+Number:  657
+UID:  10899933
+Founded words:  ['activation', 'activated', 'binding', 'binding']
+
+Number:  658
+UID:  10816583
+Founded words:  ['regulators', 'regulating', 'regulate', 'regulate', 'regulating', 'regulates']
+
+Number:  659
+UID:  10801872
+Founded words:  ['mediated', 'complex', 'complex']
+
+Number:  660
+UID:  10685504
+Founded words:  ['function', 'function']
+
+Number:  661
+UID:  10651647
+Founded words:  ['regulated']
+
+Number:  662
+UID:  10593990
+Founded words:  ['bind', 'binds', 'bind', 'complex', 'complex', 'function', 'function', 'function', 'function']
+
+Number:  663
+UID:  10525535
+Founded words:  ['function', 'function']
+
+Number:  664
+UID:  10510302
+Founded words:  ['activated']
+
+Number:  665
+UID:  10482351
+Founded words:  ['mediating', 'mediated']
+
+Number:  666
+UID:  10421573
+Founded words:  ['function', 'function']
+
+Number:  667
+UID:  10421573
+Founded words:  ['associated']
+
+Number:  668
+UID:  10421573
+Founded words:  ['interaction', 'interaction']
+
+Number:  669
+UID:  10349856
+Founded words:  ['activation', 'complex', 'complex', 'regulating', 'regulating', 'regulates']
+
+Number:  670
+UID:  10097139
+Founded words:  ['activated', 'binding', 'binding']
+
+Number:  671
+UID:  10037494
+Founded words:  ['complex', 'complex', 'function', 'function']
+
+Number:  672
+UID:  9832310
+Founded words:  ['associated']
+
+Number:  673
+UID:  9811864
+Founded words:  ['interacting', 'interacting', 'function', 'function']
+
+Number:  674
+UID:  9637259
+Founded words:  ['binding', 'binding', 'regulatory']
+
+Number:  675
+UID:  9624107
+Founded words:  ['regulatory']
+
+Number:  676
+UID:  9553108
+Founded words:  ['associated', 'binding', 'binding']
+
+Number:  677
+UID:  9450754
+Founded words:  ['regulation', 'regulation', 'function', 'function']
+
+Number:  678
+UID:  9355759
+Founded words:  ['activation', 'activation', 'activation', 'activator', 'regulation', 'regulation']
+
+Number:  679
+UID:  9228557
+Founded words:  ['regulated']
+
+Number:  680
+UID:  9121365
+Founded words:  ['regulated']
+
+Number:  681
+UID:  8933367
+Founded words:  ['associated']
+
+Number:  682
+UID:  8626795
+Founded words:  ['interaction', 'interaction', 'function', 'function']
+
+Number:  683
+UID:  8576122
+Founded words:  ['mediates']
+
+Number:  684
+UID:  8537184
+Founded words:  ['mediated']
+
+Number:  685
+UID:  8163520
+Founded words:  ['binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding', 'binding']
+
+Number:  686
+UID:  8239271
+Founded words:  ['function', 'function']
+
+Number:  687
+UID:  8479521
+Founded words:  ['associated']
+
+Number:  688
+UID:  1281162
+Founded words:  ['associated']
+
