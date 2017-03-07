@@ -208,7 +208,7 @@
 1995;aluminum;0.014563;-
 ;;;
 1995;glucose;0.011529;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
-1995;psen1 protein, human;0.010922;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+1995;presenilin-1;0.010922;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1995;presenilin-1;0.010922;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1995;calcium;0.009102;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Inorganic Chemical', 'Laboratory Procedure', 'Vitamin']
 1995;deoxyglucose;0.009102;-
@@ -244,12 +244,12 @@
 1996;amyloid beta-protein precursor;0.083290;['Amino Acid, Peptide, or Protein']
 1996;apolipoprotein e4;0.038522;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 1996;presenilin-1;0.036960;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-1996;psen1 protein, human;0.034878;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+1996;presenilin-1;0.034878;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1996;tacrine;0.027590;-
 ;;;
 ;;;
 1996;presenilin-2;0.017179;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-1996;psen2 protein, human;0.015617;-
+1996;presenilin-2;0.015617;-
 ;;;
 1996;calcium;0.010411;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Inorganic Chemical', 'Laboratory Procedure', 'Vitamin']
 1996;glucose;0.009891;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
@@ -281,13 +281,13 @@
 1996;synaptophysin;0.003644;-
 1997;amyloid beta-protein precursor;0.063484;['Amino Acid, Peptide, or Protein']
 1997;presenilin-1;0.048720;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-1997;psen1 protein, human;0.046260;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+1997;presenilin-1;0.046260;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1997;apolipoprotein e4;0.032480;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 1997;tacrine;0.019193;-
 ;;;
 1997;presenilin-2;0.019193;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
-1997;psen2 protein, human;0.017717;-
+1997;presenilin-2;0.017717;-
 ;;;
 1997;glucose;0.012303;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
 1997;amyloid beta-protein (1-40);0.012303;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
@@ -324,13 +324,13 @@
 ;;;
 1998;amyloid beta-protein precursor;0.072120;['Amino Acid, Peptide, or Protein']
 1998;presenilin-1;0.058567;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-1998;psen1 protein, human;0.055663;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+1998;presenilin-1;0.055663;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1998;apolipoprotein e4;0.045499;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 ;;;
 1998;tacrine;0.024201;-
 1998;presenilin-2;0.023717;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1998;donepezil;0.022265;['Organic Chemical', 'Pharmacologic Substance']
-1998;psen2 protein, human;0.022265;-
+1998;presenilin-2;0.022265;-
 1998;amyloid beta-protein (1-42);0.020813;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
 1998;amyloid beta-protein (1-40);0.014521;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
@@ -366,11 +366,11 @@
 ;;;
 1999;amyloid beta-protein precursor;0.071359;['Amino Acid, Peptide, or Protein']
 1999;presenilin-1;0.067961;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-1999;psen1 protein, human;0.061165;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+1999;presenilin-1;0.061165;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1999;apolipoprotein e4;0.033010;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 1999;presenilin-2;0.023786;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
-1999;psen2 protein, human;0.022816;-
+1999;presenilin-2;0.022816;-
 1999;donepezil;0.020874;['Organic Chemical', 'Pharmacologic Substance']
 1999;amyloid beta-protein (1-42);0.017961;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 1999;bace1 protein, human;0.016019;['Amino Acid, Peptide, or Protein', 'Enzyme']
@@ -406,12 +406,12 @@
 1999;beta catenin;0.004854;-
 2000;amyloid beta-protein precursor;0.080611;['Amino Acid, Peptide, or Protein']
 2000;presenilin-1;0.054306;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2000;psen1 protein, human;0.048791;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2000;presenilin-1;0.048791;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2000;apolipoprotein e4;0.035214;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 2000;amyloid beta-protein (1-42);0.027577;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2000;presenilin-2;0.026305;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
-2000;psen2 protein, human;0.024608;-
+2000;presenilin-2;0.024608;-
 2000;bace1 protein, human;0.022486;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2000;donepezil;0.021638;['Organic Chemical', 'Pharmacologic Substance']
 2000;amyloid beta-protein (1-40);0.020789;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
@@ -451,7 +451,7 @@
 2000;copper;0.005515;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Laboratory Procedure']
 2001;amyloid beta-protein precursor;0.089105;['Amino Acid, Peptide, or Protein']
 2001;presenilin-1;0.044957;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2001;psen1 protein, human;0.037667;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2001;presenilin-1;0.037667;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2001;apolipoprotein e4;0.035237;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 2001;amyloid beta-protein (1-42);0.032402;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2001;bace1 protein, human;0.027947;['Amino Acid, Peptide, or Protein', 'Enzyme']
@@ -461,7 +461,7 @@
 2001;galantamine;0.014986;['Organic Chemical', 'Pharmacologic Substance']
 2001;presenilin-2;0.013771;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
-2001;psen2 protein, human;0.013366;-
+2001;presenilin-2;0.013366;-
 2001;cholesterol;0.012961;['Organic Chemical', 'Biologically Active Substance', 'Laboratory Procedure']
 ;;;
 2001;rivastigmine;0.012151;['Organic Chemical', 'Pharmacologic Substance']
@@ -497,7 +497,7 @@
 2002;amyloid beta-protein precursor;0.085832;['Amino Acid, Peptide, or Protein']
 2002;presenilin-1;0.040480;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2002;amyloid beta-protein (1-42);0.034858;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2002;psen1 protein, human;0.034483;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2002;presenilin-1;0.034483;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2002;apolipoprotein e4;0.032984;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 2002;bace1 protein, human;0.022489;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2002;donepezil;0.022489;['Organic Chemical', 'Pharmacologic Substance']
@@ -509,7 +509,7 @@
 ;;;
 2002;acetylcholine;0.014243;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
 2002;presenilin-2;0.012369;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2002;psen2 protein, human;0.011994;-
+2002;presenilin-2;0.011994;-
 2002;galantamine;0.011619;['Organic Chemical', 'Pharmacologic Substance']
 2002;acetylcholinesterase;0.009745;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Laboratory Procedure', 'Gene or Genome']
 2002;choline o-acetyltransferase;0.009745;-
@@ -538,7 +538,7 @@
 2003;amyloid beta-protein precursor;0.079736;['Amino Acid, Peptide, or Protein']
 2003;amyloid beta-protein (1-42);0.035395;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2003;presenilin-1;0.035395;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2003;psen1 protein, human;0.029560;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2003;presenilin-1;0.029560;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2003;bace1 protein, human;0.027227;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2003;apolipoprotein e4;0.024893;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 2003;donepezil;0.024504;['Organic Chemical', 'Pharmacologic Substance']
@@ -551,7 +551,7 @@
 2003;rivastigmine;0.012447;['Organic Chemical', 'Pharmacologic Substance']
 2003;presenilin-2;0.012058;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
-2003;psen2 protein, human;0.010502;-
+2003;presenilin-2;0.010502;-
 2003;acetylcholinesterase;0.010113;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Laboratory Procedure', 'Gene or Genome']
 ;;;
 2003;glucose;0.009335;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
@@ -577,7 +577,7 @@
 2004;apolipoprotein e4;0.036808;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 2004;presenilin-1;0.036808;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2004;donepezil;0.032680;['Organic Chemical', 'Pharmacologic Substance']
-2004;psen1 protein, human;0.032336;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2004;presenilin-1;0.032336;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2004;bace1 protein, human;0.028896;['Amino Acid, Peptide, or Protein', 'Enzyme']
 ;;;
 2004;amyloid beta-protein (1-40);0.019264;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
@@ -589,7 +589,7 @@
 ;;;
 2004;presenilin-2;0.011352;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
-2004;psen2 protein, human;0.010664;-
+2004;presenilin-2;0.010664;-
 2004;copper;0.010320;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Laboratory Procedure']
 2004;calcium;0.009632;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Inorganic Chemical', 'Laboratory Procedure', 'Vitamin']
 2004;acetylcholinesterase;0.009632;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Laboratory Procedure', 'Gene or Genome']
@@ -616,7 +616,7 @@
 2005;presenilin-1;0.028378;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2005;bace1 protein, human;0.026443;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2005;donepezil;0.023541;['Organic Chemical', 'Pharmacologic Substance']
-2005;psen1 protein, human;0.023218;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2005;presenilin-1;0.023218;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
 2005;cholesterol;0.020961;['Organic Chemical', 'Biologically Active Substance', 'Laboratory Procedure']
 ;;;
@@ -636,7 +636,7 @@
 2005;homocysteine;0.008707;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Laboratory Procedure']
 ;;;
 2005;glutamic acid;0.008062;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
-2005;psen2 protein, human;0.008062;-
+2005;presenilin-2;0.008062;-
 ;;;
 2005;glycogen synthase kinase 3;0.007417;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2005;neprilysin;0.007094;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Gene or Genome']
@@ -668,7 +668,7 @@
 2006;bace1 protein, human;0.018686;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2006;memantine;0.018385;['Organic Chemical', 'Pharmacologic Substance']
 2006;galantamine;0.016275;['Organic Chemical', 'Pharmacologic Substance']
-2006;psen1 protein, human;0.014467;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2006;presenilin-1;0.014467;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2006;amyloid beta-protein (1-40);0.013562;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2006;rivastigmine;0.012357;['Organic Chemical', 'Pharmacologic Substance']
 2006;calcium;0.011453;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Inorganic Chemical', 'Laboratory Procedure', 'Vitamin']
@@ -697,7 +697,7 @@
 2006;serine;0.005425;-
 2006;homocysteine;0.005425;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Laboratory Procedure']
 ;;;
-2006;psen2 protein, human;0.005124;-
+2006;presenilin-2;0.005124;-
 2006;tumor necrosis factor-alpha;0.004822;['Immunologic Factor', 'Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
 2006;glucose;0.004822;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
@@ -733,7 +733,7 @@
 2007;glutamic acid;0.005794;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
 2007;tumor necrosis factor-alpha;0.005489;['Immunologic Factor', 'Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2007;presenilin-2;0.005489;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2007;psen1 protein, human;0.005489;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2007;presenilin-1;0.005489;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
 2007;alpha-synuclein;0.005489;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Gene or Genome']
 2007;drugs, chinese herbal;0.005185;-
@@ -771,7 +771,7 @@
 2008;glycogen synthase kinase 3 beta;0.007015;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Gene or Genome']
 2008;homocysteine;0.006734;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Laboratory Procedure']
 ;;;
-2008;psen1 protein, human;0.006453;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2008;presenilin-1;0.006453;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2008;acetylcholine;0.006173;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
 ;;;
 2008;2-(4'-(methylamino)phenyl)-6-hydroxybenzothiazole;0.006173;['Organic Chemical']
@@ -803,7 +803,7 @@
 2009;calcium;0.011889;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Inorganic Chemical', 'Laboratory Procedure', 'Vitamin']
 2009;memantine;0.010856;['Organic Chemical', 'Pharmacologic Substance']
 2009;glycogen synthase kinase 3;0.010339;['Amino Acid, Peptide, or Protein', 'Enzyme']
-2009;psen1 protein, human;0.010339;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2009;presenilin-1;0.010339;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2009;fluorodeoxyglucose f18;0.010080;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 2009;copper;0.010080;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Laboratory Procedure']
 2009;galantamine;0.010080;['Organic Chemical', 'Pharmacologic Substance']
@@ -812,7 +812,7 @@
 2009;bace1 protein, human;0.008271;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2009;glucose;0.007495;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
 ;;;
-2009;app protein, human;0.007237;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2009;amyloid beta-protein precursor;0.007237;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2009;tumor necrosis factor-alpha;0.006979;['Immunologic Factor', 'Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2009;glial fibrillary acidic protein;0.006720;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Cell Component', 'Gene or Genome']
 2009;2-(4'-(methylamino)phenyl)-6-hydroxybenzothiazole;0.006720;['Organic Chemical']
@@ -845,7 +845,7 @@
 ;;;
 2010;donepezil;0.016474;['Organic Chemical', 'Pharmacologic Substance']
 2010;mapt protein, human;0.014121;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2010;psen1 protein, human;0.014121;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2010;presenilin-1;0.014121;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2010;cholesterol;0.013650;['Organic Chemical', 'Biologically Active Substance', 'Laboratory Procedure']
 2010;fluorodeoxyglucose f18;0.012944;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 2010;bace1 protein, human;0.011532;['Amino Acid, Peptide, or Protein', 'Enzyme']
@@ -860,7 +860,7 @@
 ;;;
 ;;;
 2010;caspase 3;0.007060;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Gene or Genome']
-2010;app protein, human;0.006825;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2010;amyloid beta-protein precursor;0.006825;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2010;galantamine;0.006825;['Organic Chemical', 'Pharmacologic Substance']
 2010;glial fibrillary acidic protein;0.006354;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance', 'Cell Component', 'Gene or Genome']
 2010;copper;0.006354;['Biologically Active Substance', 'Pharmacologic Substance', 'Element, Ion, or Isotope', 'Laboratory Procedure']
@@ -886,8 +886,8 @@
 2011;apolipoprotein e4;0.028304;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 ;;;
 2011;amyloid beta-protein (1-40);0.023178;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2011;app protein, human;0.017829;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2011;psen1 protein, human;0.015155;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2011;amyloid beta-protein precursor;0.017829;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2011;presenilin-1;0.015155;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2011;donepezil;0.013818;['Organic Chemical', 'Pharmacologic Substance']
 2011;fluorodeoxyglucose f18;0.013595;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 2011;memantine;0.012480;['Organic Chemical', 'Pharmacologic Substance']
@@ -933,14 +933,14 @@
 2012;presenilin-1;0.042669;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2012;apolipoprotein e4;0.029701;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 ;;;
-2012;psen1 protein, human;0.021962;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2012;presenilin-1;0.021962;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2012;amyloid beta-protein (1-40);0.020498;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
 2012;fluorodeoxyglucose f18;0.014641;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 2012;bace1 protein, human;0.014223;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2012;memantine;0.014014;['Organic Chemical', 'Pharmacologic Substance']
 2012;acetylcholinesterase;0.013805;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Laboratory Procedure', 'Gene or Genome']
-2012;app protein, human;0.012968;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2012;amyloid beta-protein precursor;0.012968;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2012;donepezil;0.012341;['Organic Chemical', 'Pharmacologic Substance']
 2012;glycogen synthase kinase 3;0.011086;['Amino Acid, Peptide, or Protein', 'Enzyme']
 2012;mapt protein, human;0.010876;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
@@ -982,13 +982,13 @@
 2013;presenilin-1;0.041985;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2013;apolipoprotein e4;0.031137;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 ;;;
-2013;psen1 protein, human;0.020892;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2013;presenilin-1;0.020892;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2013;amyloid beta-protein (1-40);0.018883;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2013;mapt protein, human;0.015066;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2013;acetylcholinesterase;0.014464;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Laboratory Procedure', 'Gene or Genome']
 ;;;
 2013;glycogen synthase kinase 3;0.012053;['Amino Acid, Peptide, or Protein', 'Enzyme']
-2013;app protein, human;0.011852;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2013;amyloid beta-protein precursor;0.011852;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2013;fluorodeoxyglucose f18;0.011651;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 2013;memantine;0.010848;['Organic Chemical', 'Pharmacologic Substance']
 2013;donepezil;0.010245;['Organic Chemical', 'Pharmacologic Substance']
@@ -1029,11 +1029,11 @@
 2014;amyloid beta-protein (1-42);0.063932;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2014;presenilin-1;0.038899;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2014;apolipoprotein e4;0.035240;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
-2014;psen1 protein, human;0.023301;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2014;presenilin-1;0.023301;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 ;;;
 2014;amyloid beta-protein (1-40);0.018294;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2014;mapt protein, human;0.017331;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2014;app protein, human;0.015598;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2014;amyloid beta-protein precursor;0.015598;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2014;fluorodeoxyglucose f18;0.012902;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 2014;donepezil;0.012132;['Organic Chemical', 'Pharmacologic Substance']
 ;;;
@@ -1077,9 +1077,9 @@
 2015;presenilin-1;0.042040;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2015;apolipoprotein e4;0.028492;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 ;;;
-2015;psen1 protein, human;0.024706;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2015;presenilin-1;0.024706;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2015;amyloid beta-protein (1-40);0.022514;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
-2015;app protein, human;0.022315;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2015;amyloid beta-protein precursor;0.022315;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2015;mapt protein, human;0.020323;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2015;fluorodeoxyglucose f18;0.018530;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 ;;;
@@ -1124,13 +1124,13 @@
 2016;presenilin-1;0.039404;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2016;apolipoprotein e4;0.032196;['Amino Acid, Peptide, or Protein', 'Laboratory Procedure']
 ;;;
-2016;psen1 protein, human;0.023546;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2016;presenilin-1;0.023546;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2016;acetylcholinesterase;0.023066;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Laboratory Procedure', 'Gene or Genome']
 2016;mapt protein, human;0.021144;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2016;fluorodeoxyglucose f18;0.020183;['Organic Chemical', 'Indicator, Reagent, or Diagnostic Aid']
 2016;amyloid beta-protein (1-40);0.016338;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2016;butyrylcholinesterase;0.015858;['Amino Acid, Peptide, or Protein', 'Enzyme', 'Laboratory Procedure', 'Gene or Genome']
-2016;app protein, human;0.014897;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2016;amyloid beta-protein precursor;0.014897;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2016;donepezil;0.014897;['Organic Chemical', 'Pharmacologic Substance']
 ;;;
 2016;glucose;0.011533;['Organic Chemical', 'Biologically Active Substance', 'Pharmacologic Substance', 'Laboratory Procedure']
@@ -1201,6 +1201,6 @@
 2017;neurokinin b;0.018182;-
 2017;p2-c protein, fibrinogen;0.018182;-
 2017;chlorogenic acid;0.018182;-
-2017;psen1 protein, human;0.018182;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
+2017;presenilin-1;0.018182;['Amino Acid, Peptide, or Protein', 'Biologically Active Substance']
 2017;transforming growth factor beta1;0.018182;-
 2017;insulin;0.018182;['Amino Acid, Peptide, or Protein', 'Hormone', 'Pharmacologic Substance', 'Gene or Genome', 'Laboratory Procedure', 'Clinical Attribute']
